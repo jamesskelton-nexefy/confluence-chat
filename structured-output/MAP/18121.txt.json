@@ -1,0 +1,523 @@
+[
+  {
+    "type": "Title",
+    "element_id": "560a133ebfc2a3c0e9c5f64c246da195",
+    "text": "IssueID_IssueKey:18121     MAP-485",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18121.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18121",
+          "key": "MAP-485",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.291702",
+        "permissions_data": null,
+        "filesize_bytes": 1132
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "69239a97e9f3e44b82545ca47c824fb1",
+    "text": "ProjectID_Key:MAP     Mapper",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18121.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18121",
+          "key": "MAP-485",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.291702",
+        "permissions_data": null,
+        "filesize_bytes": 1132
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "afdfc8df1be3a885408faac5732b8f43",
+    "text": "IssueType:Bug",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18121.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18121",
+          "key": "MAP-485",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.291702",
+        "permissions_data": null,
+        "filesize_bytes": 1132
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4e9fb770f753c9f8a82423a5397e24b7",
+    "text": "Status:Done",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18121.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18121",
+          "key": "MAP-485",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.291702",
+        "permissions_data": null,
+        "filesize_bytes": 1132
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e39eead8195d6055f9bff5dd6758bfcc",
+    "text": "Priority:{}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18121.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18121",
+          "key": "MAP-485",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.291702",
+        "permissions_data": null,
+        "filesize_bytes": 1132
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "eab29223f40be4683fd3b92ad0688815",
+    "text": "AssigneeID_Name:62e3511e2fe585febb3c5243     Marcus Hoenig",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18121.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18121",
+          "key": "MAP-485",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.291702",
+        "permissions_data": null,
+        "filesize_bytes": 1132
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f6aae54f9aa94f06b2b0ec2cd03da67d",
+    "text": "ReporterAdr_Name:{}     lara",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18121.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18121",
+          "key": "MAP-485",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.291702",
+        "permissions_data": null,
+        "filesize_bytes": 1132
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a8d4fa8de36753f3e94b878bd49c6e29",
+    "text": "Labels:collector",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18121.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18121",
+          "key": "MAP-485",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.291702",
+        "permissions_data": null,
+        "filesize_bytes": 1132
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f3d74e0319190da0efcdfdb0e08df3a9",
+    "text": "aa264cde",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18121.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18121",
+          "key": "MAP-485",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.291702",
+        "permissions_data": null,
+        "filesize_bytes": 1132
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a0d7efa8add9c7e8a1f9144e477bfe34",
+    "text": "Components:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18121.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18121",
+          "key": "MAP-485",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.291702",
+        "permissions_data": null,
+        "filesize_bytes": 1132
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "77e0ef7a75cea671551eaeca708a93e6",
+    "text": "lara     [~accountid:62e3511e2fe585febb3c5243] still has the drop shadow in staging.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18121.txt",
+      "filetype": "text/plain",
+      "parent_id": "a0d7efa8add9c7e8a1f9144e477bfe34",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18121",
+          "key": "MAP-485",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.291702",
+        "permissions_data": null,
+        "filesize_bytes": 1132
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a4b4258ee18ff85d659e4b2a979750cf",
+    "text": "Styling of drop down menu in versions tab is not q...",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18121.txt",
+      "filetype": "text/plain",
+      "parent_id": "a0d7efa8add9c7e8a1f9144e477bfe34",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18121",
+          "key": "MAP-485",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.291702",
+        "permissions_data": null,
+        "filesize_bytes": 1132
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e7f64acdfc2d7d6d53615d36640eb300",
+    "text": "Styling of drop down menu in versions tab is not quite right. There should be no drop shadow, the grey hover should extend to the top of the panel (no padding top and bottom) and there should be a 1px 10% black outline around it. Also, it says \"view\" in my design. Open to whether we think it should say view or view report.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18121.txt",
+      "filetype": "text/plain",
+      "parent_id": "a0d7efa8add9c7e8a1f9144e477bfe34",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18121",
+          "key": "MAP-485",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.291702",
+        "permissions_data": null,
+        "filesize_bytes": 1132
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "932c7c52ec1d26ed3e88b2b1bda94290",
+    "text": "Reporter",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18121.txt",
+      "filetype": "text/plain",
+      "parent_id": "a0d7efa8add9c7e8a1f9144e477bfe34",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18121",
+          "key": "MAP-485",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.291702",
+        "permissions_data": null,
+        "filesize_bytes": 1132
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7832da7eafcd052446cc97670095876e",
+    "text": ": Lara",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18121.txt",
+      "filetype": "text/plain",
+      "parent_id": "a0d7efa8add9c7e8a1f9144e477bfe34",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18121",
+          "key": "MAP-485",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.291702",
+        "permissions_data": null,
+        "filesize_bytes": 1132
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "02cd8ff08f03642d0d95089563e72bfe",
+    "text": "E",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18121.txt",
+      "filetype": "text/plain",
+      "parent_id": "a0d7efa8add9c7e8a1f9144e477bfe34",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18121",
+          "key": "MAP-485",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.291702",
+        "permissions_data": null,
+        "filesize_bytes": 1132
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "79e2191851912de1448951b253b2f5a0",
+    "text": "mail",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18121.txt",
+      "filetype": "text/plain",
+      "parent_id": "a0d7efa8add9c7e8a1f9144e477bfe34",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18121",
+          "key": "MAP-485",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.291702",
+        "permissions_data": null,
+        "filesize_bytes": 1132
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ff551a3e5d8fcb621e8b07b3aff91ded",
+    "text": ": [mailto:lara@nexefy.com]",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18121.txt",
+      "filetype": "text/plain",
+      "parent_id": "a0d7efa8add9c7e8a1f9144e477bfe34",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18121",
+          "key": "MAP-485",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.291702",
+        "permissions_data": null,
+        "filesize_bytes": 1132
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1acf610675c6eae838dbea8153c26b0a",
+    "text": "https://nexefy.atlassian.net/rest/api/2/attachment/11618     https://nexefy.atlassian.net/rest/api/2/attachment/11619",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18121.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18121",
+          "key": "MAP-485",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.291702",
+        "permissions_data": null,
+        "filesize_bytes": 1132
+      }
+    }
+  }
+]

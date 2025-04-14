@@ -1,0 +1,33 @@
+{
+  "identifier": "17956",
+  "connector_type": "jira",
+  "source_identifiers": {
+    "filename": "17956.txt",
+    "fullpath": "MAP\\17956.txt",
+    "rel_path": "MAP\\17956.txt"
+  },
+  "metadata": {
+    "url": null,
+    "version": null,
+    "record_locator": {
+      "id": "17956",
+      "key": "MAP-440",
+      "board_id": null,
+      "project_id": "MAP"
+    },
+    "date_created": null,
+    "date_modified": null,
+    "date_processed": "1744461415.2536957",
+    "permissions_data": null,
+    "filesize_bytes": 684
+  },
+  "additional_metadata": {
+    "id": "17956",
+    "key": "MAP-440",
+    "board_id": null,
+    "project_id": "MAP"
+  },
+  "reprocess": false,
+  "local_download_path": "C:\\Users\\JamesSkelton\\.cache\\unstructured\\ingest\\download\\jira\\MAP\\17956.txt",
+  "display_name": null
+}

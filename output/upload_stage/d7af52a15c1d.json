@@ -1,0 +1,384 @@
+[
+  {
+    "type": "Title",
+    "element_id": "9b7a00dae88f1ba0f364d9a664f3d4b9",
+    "text": "IssueID_IssueKey:18682     MAP-578",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18682.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18682",
+          "key": "MAP-578",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-20T00:56:30.752+0000",
+        "date_modified": "2025-03-28T03:33:09.101+0000",
+        "date_processed": "1744461415.37028",
+        "permissions_data": null,
+        "filesize_bytes": 1290
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e20687fd3bbdf8944d669a3b87495273",
+    "text": "ProjectID_Key:MAP     Mapper",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18682.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18682",
+          "key": "MAP-578",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-20T00:56:30.752+0000",
+        "date_modified": "2025-03-28T03:33:09.101+0000",
+        "date_processed": "1744461415.37028",
+        "permissions_data": null,
+        "filesize_bytes": 1290
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "99c600c6fd54bb090ac44374aad84b32",
+    "text": "IssueType:Bug",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18682.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18682",
+          "key": "MAP-578",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-20T00:56:30.752+0000",
+        "date_modified": "2025-03-28T03:33:09.101+0000",
+        "date_processed": "1744461415.37028",
+        "permissions_data": null,
+        "filesize_bytes": 1290
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "028cd93f1b983e19b996af55cb22751f",
+    "text": "Status:Done",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18682.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18682",
+          "key": "MAP-578",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-20T00:56:30.752+0000",
+        "date_modified": "2025-03-28T03:33:09.101+0000",
+        "date_processed": "1744461415.37028",
+        "permissions_data": null,
+        "filesize_bytes": 1290
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d52e48dffc4161716f386ae150fe9308",
+    "text": "Priority:{'self': 'https://nexefy.atlassian.net/rest/api/2/priority/3', 'iconUrl': 'https://nexefy.atlassian.net/images/icons/priorities/medium.svg', 'name': 'Medium', 'id': '3'}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18682.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18682",
+          "key": "MAP-578",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-20T00:56:30.752+0000",
+        "date_modified": "2025-03-28T03:33:09.101+0000",
+        "date_processed": "1744461415.37028",
+        "permissions_data": null,
+        "filesize_bytes": 1290
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a6ede8ac64bc9b9fc99b3e1b7e8d7e27",
+    "text": "AssigneeID_Name:62e3511e2fe585febb3c5243     Marcus Hoenig",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18682.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18682",
+          "key": "MAP-578",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-20T00:56:30.752+0000",
+        "date_modified": "2025-03-28T03:33:09.101+0000",
+        "date_processed": "1744461415.37028",
+        "permissions_data": null,
+        "filesize_bytes": 1290
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d022caa7ee8a549b95617c0c277bf42d",
+    "text": "ReporterAdr_Name:james@nexefy.com     James",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18682.txt",
+      "filetype": "text/plain",
+      "parent_id": "a6ede8ac64bc9b9fc99b3e1b7e8d7e27",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18682",
+          "key": "MAP-578",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-20T00:56:30.752+0000",
+        "date_modified": "2025-03-28T03:33:09.101+0000",
+        "date_processed": "1744461415.37028",
+        "permissions_data": null,
+        "filesize_bytes": 1290
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "41e900e79af68be7dc9efa93d8514dc7",
+    "text": "Labels:DEV",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18682.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18682",
+          "key": "MAP-578",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-20T00:56:30.752+0000",
+        "date_modified": "2025-03-28T03:33:09.101+0000",
+        "date_processed": "1744461415.37028",
+        "permissions_data": null,
+        "filesize_bytes": 1290
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "36fb13b92cb607a61ec976e08d3f8ee3",
+    "text": "Components:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18682.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18682",
+          "key": "MAP-578",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-20T00:56:30.752+0000",
+        "date_modified": "2025-03-28T03:33:09.101+0000",
+        "date_processed": "1744461415.37028",
+        "permissions_data": null,
+        "filesize_bytes": 1290
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9d8d6432e41bdb41bd3e1cdf778e9374",
+    "text": "Update Terms and conditions around beta testing",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18682.txt",
+      "filetype": "text/plain",
+      "parent_id": "36fb13b92cb607a61ec976e08d3f8ee3",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18682",
+          "key": "MAP-578",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-20T00:56:30.752+0000",
+        "date_modified": "2025-03-28T03:33:09.101+0000",
+        "date_processed": "1744461415.37028",
+        "permissions_data": null,
+        "filesize_bytes": 1290
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "69ab8ad3cf9d6911b14291c14f96ccbb",
+    "text": "Update to:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18682.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18682",
+          "key": "MAP-578",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-20T00:56:30.752+0000",
+        "date_modified": "2025-03-28T03:33:09.101+0000",
+        "date_processed": "1744461415.37028",
+        "permissions_data": null,
+        "filesize_bytes": 1290
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "95b842877fdc0fe357fbf215c285d466",
+    "text": "# *Beta Access, Credits, and Fees*",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18682.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18682",
+          "key": "MAP-578",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-20T00:56:30.752+0000",
+        "date_modified": "2025-03-28T03:33:09.101+0000",
+        "date_processed": "1744461415.37028",
+        "permissions_data": null,
+        "filesize_bytes": 1290
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2b9a521e149551784bcff4f1c0941fb2",
+    "text": "3.1 *Beta Testing*: Nexefy Mapper is currently in a Beta Testing phase. During this period, the service is made available to users without charge, up to a usage limit of 100 credits. These credits allow you to access certain features or processing operations provided by Nexefy Mapper.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18682.txt",
+      "filetype": "text/plain",
+      "parent_id": "95b842877fdc0fe357fbf215c285d466",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18682",
+          "key": "MAP-578",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-20T00:56:30.752+0000",
+        "date_modified": "2025-03-28T03:33:09.101+0000",
+        "date_processed": "1744461415.37028",
+        "permissions_data": null,
+        "filesize_bytes": 1290
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8d8fd4cba9f2a4e66fdd4bdf2422f5d0",
+    "text": "3.2 *No Guarantee of Continued Free Access*: Nexefy Mapper reserves the right to modify the credit system, introduce new pricing models, or otherwise change the availability and pricing of the service once the Beta Testing phase concludes.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18682.txt",
+      "filetype": "text/plain",
+      "parent_id": "95b842877fdc0fe357fbf215c285d466",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18682",
+          "key": "MAP-578",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-20T00:56:30.752+0000",
+        "date_modified": "2025-03-28T03:33:09.101+0000",
+        "date_processed": "1744461415.37028",
+        "permissions_data": null,
+        "filesize_bytes": 1290
+      }
+    }
+  }
+]

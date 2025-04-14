@@ -1,0 +1,716 @@
+[
+  {
+    "type": "Title",
+    "element_id": "37fa6ff6e54f6d34ee11fc5d716f3ddf",
+    "text": "IssueID_IssueKey:17830     MAP-383",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17830.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17830",
+          "key": "MAP-383",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2008915",
+        "permissions_data": null,
+        "filesize_bytes": 1551
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ed544b27f74b80acfcc1f398da84d992",
+    "text": "ProjectID_Key:MAP     Mapper",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17830.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17830",
+          "key": "MAP-383",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2008915",
+        "permissions_data": null,
+        "filesize_bytes": 1551
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a1765bb8762cc8316aa9a7308f2d0c99",
+    "text": "IssueType:Story",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17830.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17830",
+          "key": "MAP-383",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2008915",
+        "permissions_data": null,
+        "filesize_bytes": 1551
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "803e093506580fd99aa72cd14ad7ab52",
+    "text": "Status:Selected for Development",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17830.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17830",
+          "key": "MAP-383",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2008915",
+        "permissions_data": null,
+        "filesize_bytes": 1551
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "fd6d2dae838242b41798824b03f789e3",
+    "text": "Priority:{'self': 'https://nexefy.atlassian.net/rest/api/2/priority/2', 'iconUrl': 'https://nexefy.atlassian.net/images/icons/priorities/high.svg', 'name': 'High', 'id': '2'}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17830.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17830",
+          "key": "MAP-383",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2008915",
+        "permissions_data": null,
+        "filesize_bytes": 1551
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "70a557b2b04af4720cba8abac9dd96de",
+    "text": "AssigneeID_Name:62de37ee4b574e9f2caf31d0     James",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17830.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17830",
+          "key": "MAP-383",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2008915",
+        "permissions_data": null,
+        "filesize_bytes": 1551
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9fa1e2a4a975f62ea2dd128a572cc127",
+    "text": "ReporterAdr_Name:james@nexefy.com     James",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17830.txt",
+      "filetype": "text/plain",
+      "parent_id": "70a557b2b04af4720cba8abac9dd96de",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17830",
+          "key": "MAP-383",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2008915",
+        "permissions_data": null,
+        "filesize_bytes": 1551
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5e8880f06b0b53a583d24a5bc8e0824b",
+    "text": "Labels:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17830.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17830",
+          "key": "MAP-383",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2008915",
+        "permissions_data": null,
+        "filesize_bytes": 1551
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "75698adcc80dc243f8c432b412b4778f",
+    "text": "Components:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17830.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17830",
+          "key": "MAP-383",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2008915",
+        "permissions_data": null,
+        "filesize_bytes": 1551
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1ea9508a12b930f3aca223c07d36194c",
+    "text": "Framework Builder - Ability for a user to build and configure their own framework",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17830.txt",
+      "filetype": "text/plain",
+      "parent_id": "75698adcc80dc243f8c432b412b4778f",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17830",
+          "key": "MAP-383",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2008915",
+        "permissions_data": null,
+        "filesize_bytes": 1551
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "52c37c1358fbc168abe0ebfb35a0637c",
+    "text": "As a user I want to be able to create my own framework and map my files to it.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17830.txt",
+      "filetype": "text/plain",
+      "parent_id": "75698adcc80dc243f8c432b412b4778f",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17830",
+          "key": "MAP-383",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2008915",
+        "permissions_data": null,
+        "filesize_bytes": 1551
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "91d9bf80c1c04f677cdefa0261edab1d",
+    "text": "Consider a drag and drop builder",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17830.txt",
+      "filetype": "text/plain",
+      "parent_id": "75698adcc80dc243f8c432b412b4778f",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17830",
+          "key": "MAP-383",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2008915",
+        "permissions_data": null,
+        "filesize_bytes": 1551
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9e8b0ac39c213e981ed2ad7851e54cd9",
+    "text": "Starts with uploaded documentation that contains the framework, eg Rulebook",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17830.txt",
+      "filetype": "text/plain",
+      "parent_id": "75698adcc80dc243f8c432b412b4778f",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17830",
+          "key": "MAP-383",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2008915",
+        "permissions_data": null,
+        "filesize_bytes": 1551
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0463a91a734b78092553fb7845a5075d",
+    "text": "Custom frameworks may have different types of documents that map to it outside of training",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17830.txt",
+      "filetype": "text/plain",
+      "parent_id": "75698adcc80dc243f8c432b412b4778f",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17830",
+          "key": "MAP-383",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2008915",
+        "permissions_data": null,
+        "filesize_bytes": 1551
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c37d97d93cda3e416f97282a5f4c5fe1",
+    "text": "There may be more than two types of documents users want to map to it",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17830.txt",
+      "filetype": "text/plain",
+      "parent_id": "75698adcc80dc243f8c432b412b4778f",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17830",
+          "key": "MAP-383",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2008915",
+        "permissions_data": null,
+        "filesize_bytes": 1551
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "299b930d777c66e999fe6580710e286a",
+    "text": "What constitutes a met or not met may be different to how we currently define that in the prompts",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17830.txt",
+      "filetype": "text/plain",
+      "parent_id": "75698adcc80dc243f8c432b412b4778f",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17830",
+          "key": "MAP-383",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2008915",
+        "permissions_data": null,
+        "filesize_bytes": 1551
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e0fab85e0c0477e2c646b9cf19b499e2",
+    "text": "Version control",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17830.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17830",
+          "key": "MAP-383",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2008915",
+        "permissions_data": null,
+        "filesize_bytes": 1551
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c9dd83f11c094ed5a6cd700dcd6136a3",
+    "text": "System controls the structure and size",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17830.txt",
+      "filetype": "text/plain",
+      "parent_id": "e0fab85e0c0477e2c646b9cf19b499e2",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17830",
+          "key": "MAP-383",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2008915",
+        "permissions_data": null,
+        "filesize_bytes": 1551
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f894bfad5e2fd7e10d564cbfd6ca11e3",
+    "text": "Determine who has access",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17830.txt",
+      "filetype": "text/plain",
+      "parent_id": "e0fab85e0c0477e2c646b9cf19b499e2",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17830",
+          "key": "MAP-383",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2008915",
+        "permissions_data": null,
+        "filesize_bytes": 1551
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0be991735c463daa09fb5f48c5db5391",
+    "text": "access control",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17830.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17830",
+          "key": "MAP-383",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2008915",
+        "permissions_data": null,
+        "filesize_bytes": 1551
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d55e895022e58606903d2490c4b2f185",
+    "text": "owner",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17830.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17830",
+          "key": "MAP-383",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2008915",
+        "permissions_data": null,
+        "filesize_bytes": 1551
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "95100de6f0ff94e8a64e6257b44d3827",
+    "text": "Updating the framework",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17830.txt",
+      "filetype": "text/plain",
+      "parent_id": "d55e895022e58606903d2490c4b2f185",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17830",
+          "key": "MAP-383",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2008915",
+        "permissions_data": null,
+        "filesize_bytes": 1551
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "75f017b0ff25fbacddef98602c39cda1",
+    "text": "structure and contents",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17830.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17830",
+          "key": "MAP-383",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2008915",
+        "permissions_data": null,
+        "filesize_bytes": 1551
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "221d94ed00a10725b7485c1ee38b6b3f",
+    "text": "Diff Chart still applicable",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17830.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17830",
+          "key": "MAP-383",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2008915",
+        "permissions_data": null,
+        "filesize_bytes": 1551
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9c732a92a3637d0d8747baae34eee3e2",
+    "text": "Data driven UI on report",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17830.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17830",
+          "key": "MAP-383",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2008915",
+        "permissions_data": null,
+        "filesize_bytes": 1551
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "aed9aa5bf87f500c50586c8dc244a7cd",
+    "text": "Rule of what makes met or not met, per doc type and per criteria segment - select from rule library? - AND/OR/IF",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17830.txt",
+      "filetype": "text/plain",
+      "parent_id": "9c732a92a3637d0d8747baae34eee3e2",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17830",
+          "key": "MAP-383",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2008915",
+        "permissions_data": null,
+        "filesize_bytes": 1551
+      }
+    }
+  }
+]

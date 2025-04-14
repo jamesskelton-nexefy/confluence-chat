@@ -1,0 +1,468 @@
+[
+  {
+    "type": "Title",
+    "element_id": "741432be92343ca4659ced821fad6e08",
+    "text": "IssueID_IssueKey:18357     MAP-510",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18357.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18357",
+          "key": "MAP-510",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-07T00:42:58.288+0000",
+        "date_modified": "2025-03-27T23:47:36.778+0000",
+        "date_processed": "1744461415.3181202",
+        "permissions_data": null,
+        "filesize_bytes": 739
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c506ffc2c73ed4d18ed4f54f99815c7f",
+    "text": "ProjectID_Key:MAP     Mapper",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18357.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18357",
+          "key": "MAP-510",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-07T00:42:58.288+0000",
+        "date_modified": "2025-03-27T23:47:36.778+0000",
+        "date_processed": "1744461415.3181202",
+        "permissions_data": null,
+        "filesize_bytes": 739
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4fad975285a629b7b55ca0306201132f",
+    "text": "IssueType:Bug",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18357.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18357",
+          "key": "MAP-510",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-07T00:42:58.288+0000",
+        "date_modified": "2025-03-27T23:47:36.778+0000",
+        "date_processed": "1744461415.3181202",
+        "permissions_data": null,
+        "filesize_bytes": 739
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b268a179dfc0af929263e7569d5d1c45",
+    "text": "Status:Done",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18357.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18357",
+          "key": "MAP-510",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-07T00:42:58.288+0000",
+        "date_modified": "2025-03-27T23:47:36.778+0000",
+        "date_processed": "1744461415.3181202",
+        "permissions_data": null,
+        "filesize_bytes": 739
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "fb6507e075632dd0d8b0dd501d2a2cdf",
+    "text": "Priority:{}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18357.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18357",
+          "key": "MAP-510",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-07T00:42:58.288+0000",
+        "date_modified": "2025-03-27T23:47:36.778+0000",
+        "date_processed": "1744461415.3181202",
+        "permissions_data": null,
+        "filesize_bytes": 739
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ca9b23ea80278adff18d012c9ac1b4c1",
+    "text": "AssigneeID_Name:62e3511e2fe585febb3c5243     Marcus Hoenig",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18357.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18357",
+          "key": "MAP-510",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-07T00:42:58.288+0000",
+        "date_modified": "2025-03-27T23:47:36.778+0000",
+        "date_processed": "1744461415.3181202",
+        "permissions_data": null,
+        "filesize_bytes": 739
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9d806249e0bcb2058c0773344c69f3f9",
+    "text": "ReporterAdr_Name:{}     lara",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18357.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18357",
+          "key": "MAP-510",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-07T00:42:58.288+0000",
+        "date_modified": "2025-03-27T23:47:36.778+0000",
+        "date_processed": "1744461415.3181202",
+        "permissions_data": null,
+        "filesize_bytes": 739
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "14af400caff49c02d0eee91b07e7ce42",
+    "text": "Labels:DEV     collector-aa264cde",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18357.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18357",
+          "key": "MAP-510",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-07T00:42:58.288+0000",
+        "date_modified": "2025-03-27T23:47:36.778+0000",
+        "date_processed": "1744461415.3181202",
+        "permissions_data": null,
+        "filesize_bytes": 739
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6f90e7dece930fe6240d3fbb503dd1aa",
+    "text": "Components:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18357.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18357",
+          "key": "MAP-510",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-07T00:42:58.288+0000",
+        "date_modified": "2025-03-27T23:47:36.778+0000",
+        "date_processed": "1744461415.3181202",
+        "permissions_data": null,
+        "filesize_bytes": 739
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "715b72d30ad796d1144b137fe154b216",
+    "text": "this slide started with the last image in the loop...",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18357.txt",
+      "filetype": "text/plain",
+      "parent_id": "6f90e7dece930fe6240d3fbb503dd1aa",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18357",
+          "key": "MAP-510",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-07T00:42:58.288+0000",
+        "date_modified": "2025-03-27T23:47:36.778+0000",
+        "date_processed": "1744461415.3181202",
+        "permissions_data": null,
+        "filesize_bytes": 739
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d345906abe9f70186c33d327c6560fd2",
+    "text": "this slide started with the last image in the loop, rather than the first",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18357.txt",
+      "filetype": "text/plain",
+      "parent_id": "6f90e7dece930fe6240d3fbb503dd1aa",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18357",
+          "key": "MAP-510",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-07T00:42:58.288+0000",
+        "date_modified": "2025-03-27T23:47:36.778+0000",
+        "date_processed": "1744461415.3181202",
+        "permissions_data": null,
+        "filesize_bytes": 739
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3b9b3260f083d42fd8a6188633021450",
+    "text": "Reporter",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18357.txt",
+      "filetype": "text/plain",
+      "parent_id": "6f90e7dece930fe6240d3fbb503dd1aa",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18357",
+          "key": "MAP-510",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-07T00:42:58.288+0000",
+        "date_modified": "2025-03-27T23:47:36.778+0000",
+        "date_processed": "1744461415.3181202",
+        "permissions_data": null,
+        "filesize_bytes": 739
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fc6e8403ae6667029db1497fe1fc2060",
+    "text": ": Lara",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18357.txt",
+      "filetype": "text/plain",
+      "parent_id": "6f90e7dece930fe6240d3fbb503dd1aa",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18357",
+          "key": "MAP-510",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-07T00:42:58.288+0000",
+        "date_modified": "2025-03-27T23:47:36.778+0000",
+        "date_processed": "1744461415.3181202",
+        "permissions_data": null,
+        "filesize_bytes": 739
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d7f32ba997554b51211e40ec496bfdfa",
+    "text": "E",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18357.txt",
+      "filetype": "text/plain",
+      "parent_id": "6f90e7dece930fe6240d3fbb503dd1aa",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18357",
+          "key": "MAP-510",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-07T00:42:58.288+0000",
+        "date_modified": "2025-03-27T23:47:36.778+0000",
+        "date_processed": "1744461415.3181202",
+        "permissions_data": null,
+        "filesize_bytes": 739
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3335b8a74e771e77cc9d3c7438f89c12",
+    "text": "mail",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18357.txt",
+      "filetype": "text/plain",
+      "parent_id": "6f90e7dece930fe6240d3fbb503dd1aa",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18357",
+          "key": "MAP-510",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-07T00:42:58.288+0000",
+        "date_modified": "2025-03-27T23:47:36.778+0000",
+        "date_processed": "1744461415.3181202",
+        "permissions_data": null,
+        "filesize_bytes": 739
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "87ce51bc3643954c325f37ced12313c9",
+    "text": ": [mailto:lara@nexefy.com]",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18357.txt",
+      "filetype": "text/plain",
+      "parent_id": "6f90e7dece930fe6240d3fbb503dd1aa",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18357",
+          "key": "MAP-510",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-07T00:42:58.288+0000",
+        "date_modified": "2025-03-27T23:47:36.778+0000",
+        "date_processed": "1744461415.3181202",
+        "permissions_data": null,
+        "filesize_bytes": 739
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "50e9d17ee401796c41ac0a74521eafc1",
+    "text": "https://nexefy.atlassian.net/rest/api/2/attachment/11819",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18357.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18357",
+          "key": "MAP-510",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-07T00:42:58.288+0000",
+        "date_modified": "2025-03-27T23:47:36.778+0000",
+        "date_processed": "1744461415.3181202",
+        "permissions_data": null,
+        "filesize_bytes": 739
+      }
+    }
+  }
+]

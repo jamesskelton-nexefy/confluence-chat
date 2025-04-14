@@ -1,0 +1,357 @@
+[
+  {
+    "type": "Title",
+    "element_id": "cd59aeff5bb94ae6c6ac21d44c169fef",
+    "text": "IssueID_IssueKey:17764     MAP-337",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17764.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17764",
+          "key": "MAP-337",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.1579862",
+        "permissions_data": null,
+        "filesize_bytes": 1153
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "eeb976336536e0110cb00811775b0170",
+    "text": "ProjectID_Key:MAP     Mapper",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17764.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17764",
+          "key": "MAP-337",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.1579862",
+        "permissions_data": null,
+        "filesize_bytes": 1153
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b9c2c7710b1bfdcd1322b1ba66b594ea",
+    "text": "IssueType:Bug",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17764.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17764",
+          "key": "MAP-337",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.1579862",
+        "permissions_data": null,
+        "filesize_bytes": 1153
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ce202ede7ba5f695b63a48f361b2af81",
+    "text": "Status:Selected for Development",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17764.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17764",
+          "key": "MAP-337",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.1579862",
+        "permissions_data": null,
+        "filesize_bytes": 1153
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "fc5dabb05a59e9139cdbbe75bf8629d1",
+    "text": "Priority:{'self': 'https://nexefy.atlassian.net/rest/api/2/priority/1', 'iconUrl': 'https://nexefy.atlassian.net/images/icons/priorities/highest.svg', 'name': 'Highest', 'id': '1'}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17764.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17764",
+          "key": "MAP-337",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.1579862",
+        "permissions_data": null,
+        "filesize_bytes": 1153
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ab17732a58ac8f9fe777e748ce1b23c2",
+    "text": "AssigneeID_Name:712020:03a1fd5a-a3b6-4dbe-aa37-328404a582f5     Isaac Dart",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17764.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17764",
+          "key": "MAP-337",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.1579862",
+        "permissions_data": null,
+        "filesize_bytes": 1153
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "795bd51074c801c50dfdafc145d04b8c",
+    "text": "ReporterAdr_Name:{}     jessica",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17764.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17764",
+          "key": "MAP-337",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.1579862",
+        "permissions_data": null,
+        "filesize_bytes": 1153
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d5bc74fa52b1c49ebd146699842d1814",
+    "text": "Labels:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17764.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17764",
+          "key": "MAP-337",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.1579862",
+        "permissions_data": null,
+        "filesize_bytes": 1153
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "229a886d6236ed9e9336a852303c35cd",
+    "text": "Components:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17764.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17764",
+          "key": "MAP-337",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.1579862",
+        "permissions_data": null,
+        "filesize_bytes": 1153
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "85a31c7035f813a14d8ba876b1fbc062",
+    "text": "Marcus Hoenig     [~accountid:712020:03a1fd5a-a3b6-4dbe-aa37-328404a582f5] I would probably be best to branch off of dev and start again. but you can check out this branch to see my progress. Would recommend merging in PR for [https://nexefy.atlassian.net/browse/MAP-610|https://nexefy.atlassian.net/browse/MAP-610|smart-link] first if possible.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17764.txt",
+      "filetype": "text/plain",
+      "parent_id": "229a886d6236ed9e9336a852303c35cd",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17764",
+          "key": "MAP-337",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.1579862",
+        "permissions_data": null,
+        "filesize_bytes": 1153
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8d5e65121f7d224559ed682e5d3ddc8f",
+    "text": "Manually overriding the results doesn't update the dials",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17764.txt",
+      "filetype": "text/plain",
+      "parent_id": "229a886d6236ed9e9336a852303c35cd",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17764",
+          "key": "MAP-337",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.1579862",
+        "permissions_data": null,
+        "filesize_bytes": 1153
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "06efb52a645ee9019c7c92282f5ffe5a",
+    "text": "Overriding should update dials",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17764.txt",
+      "filetype": "text/plain",
+      "parent_id": "229a886d6236ed9e9336a852303c35cd",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17764",
+          "key": "MAP-337",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.1579862",
+        "permissions_data": null,
+        "filesize_bytes": 1153
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d4eb9d764613ac2ec87b2d39c79bc0f7",
+    "text": "Overriding should update unit tab",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17764.txt",
+      "filetype": "text/plain",
+      "parent_id": "229a886d6236ed9e9336a852303c35cd",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17764",
+          "key": "MAP-337",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.1579862",
+        "permissions_data": null,
+        "filesize_bytes": 1153
+      }
+    }
+  }
+]

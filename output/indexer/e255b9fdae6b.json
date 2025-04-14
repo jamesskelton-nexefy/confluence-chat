@@ -1,0 +1,33 @@
+{
+  "identifier": "18851",
+  "connector_type": "jira",
+  "source_identifiers": {
+    "filename": "18851.txt",
+    "fullpath": "MAP\\18851.txt",
+    "rel_path": "MAP\\18851.txt"
+  },
+  "metadata": {
+    "url": null,
+    "version": null,
+    "record_locator": {
+      "id": "18851",
+      "key": "MAP-586",
+      "board_id": null,
+      "project_id": "MAP"
+    },
+    "date_created": "2025-03-27T01:32:36.004+0000",
+    "date_modified": "2025-04-03T01:03:51.224+0000",
+    "date_processed": "1744461415.3772812",
+    "permissions_data": null,
+    "filesize_bytes": 864
+  },
+  "additional_metadata": {
+    "id": "18851",
+    "key": "MAP-586",
+    "board_id": null,
+    "project_id": "MAP"
+  },
+  "reprocess": false,
+  "local_download_path": "C:\\Users\\JamesSkelton\\.cache\\unstructured\\ingest\\download\\jira\\MAP\\18851.txt",
+  "display_name": "Mapper"
+}

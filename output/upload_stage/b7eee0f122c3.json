@@ -1,0 +1,608 @@
+[
+  {
+    "type": "Title",
+    "element_id": "a30727f996795b0bd27504d93c4df8dc",
+    "text": "IssueID_IssueKey:18716     MAP-582",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18716.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18716",
+          "key": "MAP-582",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-21T04:42:21.812+0000",
+        "date_modified": "2025-04-01T22:29:38.543+0000",
+        "date_processed": "1744461415.3732803",
+        "permissions_data": null,
+        "filesize_bytes": 1821
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a5060615153964543a433c2bfceb3a3a",
+    "text": "ProjectID_Key:MAP     Mapper",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18716.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18716",
+          "key": "MAP-582",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-21T04:42:21.812+0000",
+        "date_modified": "2025-04-01T22:29:38.543+0000",
+        "date_processed": "1744461415.3732803",
+        "permissions_data": null,
+        "filesize_bytes": 1821
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f1b7a10605ccdfce5ca279581c6baef3",
+    "text": "IssueType:Bug",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18716.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18716",
+          "key": "MAP-582",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-21T04:42:21.812+0000",
+        "date_modified": "2025-04-01T22:29:38.543+0000",
+        "date_processed": "1744461415.3732803",
+        "permissions_data": null,
+        "filesize_bytes": 1821
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "59240ffb60f90bd9122a6690faff55f9",
+    "text": "Status:Done",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18716.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18716",
+          "key": "MAP-582",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-21T04:42:21.812+0000",
+        "date_modified": "2025-04-01T22:29:38.543+0000",
+        "date_processed": "1744461415.3732803",
+        "permissions_data": null,
+        "filesize_bytes": 1821
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "91ec0cfbbeb55df85df52abb1e9ef40d",
+    "text": "Priority:{}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18716.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18716",
+          "key": "MAP-582",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-21T04:42:21.812+0000",
+        "date_modified": "2025-04-01T22:29:38.543+0000",
+        "date_processed": "1744461415.3732803",
+        "permissions_data": null,
+        "filesize_bytes": 1821
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "61e26e7b5d761f5089bbb5ad3766950b",
+    "text": "AssigneeID_Name:62e3511e2fe585febb3c5243     Marcus Hoenig",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18716.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18716",
+          "key": "MAP-582",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-21T04:42:21.812+0000",
+        "date_modified": "2025-04-01T22:29:38.543+0000",
+        "date_processed": "1744461415.3732803",
+        "permissions_data": null,
+        "filesize_bytes": 1821
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "56a26d83eeb46bd75a3a9ab9996d214f",
+    "text": "ReporterAdr_Name:{}     lara",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18716.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18716",
+          "key": "MAP-582",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-21T04:42:21.812+0000",
+        "date_modified": "2025-04-01T22:29:38.543+0000",
+        "date_processed": "1744461415.3732803",
+        "permissions_data": null,
+        "filesize_bytes": 1821
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "63269cb2acb161be1e694fe2ad2e4c2d",
+    "text": "Labels:DEV     collector-aa264cde",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18716.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18716",
+          "key": "MAP-582",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-21T04:42:21.812+0000",
+        "date_modified": "2025-04-01T22:29:38.543+0000",
+        "date_processed": "1744461415.3732803",
+        "permissions_data": null,
+        "filesize_bytes": 1821
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ad2844c89760ceb26ae053949dca7457",
+    "text": "Components:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18716.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18716",
+          "key": "MAP-582",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-21T04:42:21.812+0000",
+        "date_modified": "2025-04-01T22:29:38.543+0000",
+        "date_processed": "1744461415.3732803",
+        "permissions_data": null,
+        "filesize_bytes": 1821
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a73ef2645e23a769e641f30b277671b9",
+    "text": "lara     [~accountid:62e3511e2fe585febb3c5243] can we please make this info text 40% grey instead of red? And when the form field is empty and deselected, can we hide the info text again please? Everything else looks great!",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18716.txt",
+      "filetype": "text/plain",
+      "parent_id": "ad2844c89760ceb26ae053949dca7457",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18716",
+          "key": "MAP-582",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-21T04:42:21.812+0000",
+        "date_modified": "2025-04-01T22:29:38.543+0000",
+        "date_processed": "1744461415.3732803",
+        "permissions_data": null,
+        "filesize_bytes": 1821
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d1d0924bc333bb3b1a5a1c39080d300a",
+    "text": "!image-20250328-015803.png|width=272,height=104,alt=\"image-20250328-015803.png\"! Marcus Hoenig     final fix made via hotfix: 2dad0affd3de71de745ac836eb0d4eabca63f2c8",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18716.txt",
+      "filetype": "text/plain",
+      "parent_id": "ad2844c89760ceb26ae053949dca7457",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18716",
+          "key": "MAP-582",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-21T04:42:21.812+0000",
+        "date_modified": "2025-04-01T22:29:38.543+0000",
+        "date_processed": "1744461415.3732803",
+        "permissions_data": null,
+        "filesize_bytes": 1821
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "948583d5cff9fef1b998cf6fa7cf29dc",
+    "text": "Form styling issues    1. Wrong info text is white...",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18716.txt",
+      "filetype": "text/plain",
+      "parent_id": "ad2844c89760ceb26ae053949dca7457",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18716",
+          "key": "MAP-582",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-21T04:42:21.812+0000",
+        "date_modified": "2025-04-01T22:29:38.543+0000",
+        "date_processed": "1744461415.3732803",
+        "permissions_data": null,
+        "filesize_bytes": 1821
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "70eff81a3271da1e51436a85f25aef7f",
+    "text": "Form styling issues",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18716.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18716",
+          "key": "MAP-582",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-21T04:42:21.812+0000",
+        "date_modified": "2025-04-01T22:29:38.543+0000",
+        "date_processed": "1744461415.3732803",
+        "permissions_data": null,
+        "filesize_bytes": 1821
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d0e5a5f25cfc6c352deb58e4bf8f174e",
+    "text": "1. Wrong info text is white on white (see attached images) and also causes the form to become misaligned.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18716.txt",
+      "filetype": "text/plain",
+      "parent_id": "70eff81a3271da1e51436a85f25aef7f",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18716",
+          "key": "MAP-582",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-21T04:42:21.812+0000",
+        "date_modified": "2025-04-01T22:29:38.543+0000",
+        "date_processed": "1744461415.3732803",
+        "permissions_data": null,
+        "filesize_bytes": 1821
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "06d04c691ab838acaae026b3ab3d7f2b",
+    "text": "2. If I put in the wrong number it comes up with a dialogue box when I hit save rather than enforcing numbers and showing wrong info text while typing.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18716.txt",
+      "filetype": "text/plain",
+      "parent_id": "70eff81a3271da1e51436a85f25aef7f",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18716",
+          "key": "MAP-582",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-21T04:42:21.812+0000",
+        "date_modified": "2025-04-01T22:29:38.543+0000",
+        "date_processed": "1744461415.3732803",
+        "permissions_data": null,
+        "filesize_bytes": 1821
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "adc0d14d618e8e61917e957ef7b55231",
+    "text": "3. If I delete wrong info, it still shows red and looks like I can't save even though I can. Suggest removing red outline from non compulsory fields.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18716.txt",
+      "filetype": "text/plain",
+      "parent_id": "70eff81a3271da1e51436a85f25aef7f",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18716",
+          "key": "MAP-582",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-21T04:42:21.812+0000",
+        "date_modified": "2025-04-01T22:29:38.543+0000",
+        "date_processed": "1744461415.3732803",
+        "permissions_data": null,
+        "filesize_bytes": 1821
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1a7c05722a824df1f5d4820f47094645",
+    "text": "Reporter",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18716.txt",
+      "filetype": "text/plain",
+      "parent_id": "70eff81a3271da1e51436a85f25aef7f",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18716",
+          "key": "MAP-582",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-21T04:42:21.812+0000",
+        "date_modified": "2025-04-01T22:29:38.543+0000",
+        "date_processed": "1744461415.3732803",
+        "permissions_data": null,
+        "filesize_bytes": 1821
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ba6252fa7abba40a6c7d71f67923642e",
+    "text": ": Lara Roche",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18716.txt",
+      "filetype": "text/plain",
+      "parent_id": "70eff81a3271da1e51436a85f25aef7f",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18716",
+          "key": "MAP-582",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-21T04:42:21.812+0000",
+        "date_modified": "2025-04-01T22:29:38.543+0000",
+        "date_processed": "1744461415.3732803",
+        "permissions_data": null,
+        "filesize_bytes": 1821
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1dc5c4014a4b070fb6e3ef651c524d31",
+    "text": "E",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18716.txt",
+      "filetype": "text/plain",
+      "parent_id": "70eff81a3271da1e51436a85f25aef7f",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18716",
+          "key": "MAP-582",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-21T04:42:21.812+0000",
+        "date_modified": "2025-04-01T22:29:38.543+0000",
+        "date_processed": "1744461415.3732803",
+        "permissions_data": null,
+        "filesize_bytes": 1821
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "732a94c4d865f0b7edb73f0729c95465",
+    "text": "mail",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18716.txt",
+      "filetype": "text/plain",
+      "parent_id": "70eff81a3271da1e51436a85f25aef7f",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18716",
+          "key": "MAP-582",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-21T04:42:21.812+0000",
+        "date_modified": "2025-04-01T22:29:38.543+0000",
+        "date_processed": "1744461415.3732803",
+        "permissions_data": null,
+        "filesize_bytes": 1821
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2853741137f0ad0e5dd3b3b99cc374f7",
+    "text": ": [mailto:lara@nexefy.com]",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18716.txt",
+      "filetype": "text/plain",
+      "parent_id": "70eff81a3271da1e51436a85f25aef7f",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18716",
+          "key": "MAP-582",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-21T04:42:21.812+0000",
+        "date_modified": "2025-04-01T22:29:38.543+0000",
+        "date_processed": "1744461415.3732803",
+        "permissions_data": null,
+        "filesize_bytes": 1821
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4c9a06ae9004297311464d0d7887e47b",
+    "text": "https://nexefy.atlassian.net/rest/api/2/attachment/12312     https://nexefy.atlassian.net/rest/api/2/attachment/12150     https://nexefy.atlassian.net/rest/api/2/attachment/12148     https://nexefy.atlassian.net/rest/api/2/attachment/12149     https://nexefy.atlassian.net/rest/api/2/attachment/12151     https://nexefy.atlassian.net/rest/api/2/attachment/12152",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18716.txt",
+      "filetype": "text/plain",
+      "parent_id": "70eff81a3271da1e51436a85f25aef7f",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18716",
+          "key": "MAP-582",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-21T04:42:21.812+0000",
+        "date_modified": "2025-04-01T22:29:38.543+0000",
+        "date_processed": "1744461415.3732803",
+        "permissions_data": null,
+        "filesize_bytes": 1821
+      }
+    }
+  }
+]

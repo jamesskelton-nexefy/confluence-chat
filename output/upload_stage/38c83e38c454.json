@@ -1,0 +1,438 @@
+[
+  {
+    "type": "Title",
+    "element_id": "ebba68b84c481097040058a970927ed6",
+    "text": "IssueID_IssueKey:18484     MAP-557",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18484.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18484",
+          "key": "MAP-557",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-13T00:03:28.730+0000",
+        "date_modified": "2025-03-27T23:48:23.022+0000",
+        "date_processed": "1744461415.3534896",
+        "permissions_data": null,
+        "filesize_bytes": 889
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0d05f95eec9eca8111dfa0f35b06a3b0",
+    "text": "ProjectID_Key:MAP     Mapper",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18484.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18484",
+          "key": "MAP-557",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-13T00:03:28.730+0000",
+        "date_modified": "2025-03-27T23:48:23.022+0000",
+        "date_processed": "1744461415.3534896",
+        "permissions_data": null,
+        "filesize_bytes": 889
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "94e10d0cce2489832aa3dfbee1809b72",
+    "text": "IssueType:Task",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18484.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18484",
+          "key": "MAP-557",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-13T00:03:28.730+0000",
+        "date_modified": "2025-03-27T23:48:23.022+0000",
+        "date_processed": "1744461415.3534896",
+        "permissions_data": null,
+        "filesize_bytes": 889
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9daa0d2af75f6a31b6cf10a42f97d24d",
+    "text": "Status:Done",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18484.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18484",
+          "key": "MAP-557",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-13T00:03:28.730+0000",
+        "date_modified": "2025-03-27T23:48:23.022+0000",
+        "date_processed": "1744461415.3534896",
+        "permissions_data": null,
+        "filesize_bytes": 889
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9926961ec0ae2cece47e6598106b9e81",
+    "text": "Priority:{'self': 'https://nexefy.atlassian.net/rest/api/2/priority/3', 'iconUrl': 'https://nexefy.atlassian.net/images/icons/priorities/medium.svg', 'name': 'Medium', 'id': '3'}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18484.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18484",
+          "key": "MAP-557",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-13T00:03:28.730+0000",
+        "date_modified": "2025-03-27T23:48:23.022+0000",
+        "date_processed": "1744461415.3534896",
+        "permissions_data": null,
+        "filesize_bytes": 889
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d1cd71e02d42a64b45fad69917da639b",
+    "text": "AssigneeID_Name:62e3511e2fe585febb3c5243     Marcus Hoenig",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18484.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18484",
+          "key": "MAP-557",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-13T00:03:28.730+0000",
+        "date_modified": "2025-03-27T23:48:23.022+0000",
+        "date_processed": "1744461415.3534896",
+        "permissions_data": null,
+        "filesize_bytes": 889
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "91f2458c9bac9582a724b4271b289083",
+    "text": "ReporterAdr_Name:{}     Marcus Hoenig",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18484.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18484",
+          "key": "MAP-557",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-13T00:03:28.730+0000",
+        "date_modified": "2025-03-27T23:48:23.022+0000",
+        "date_processed": "1744461415.3534896",
+        "permissions_data": null,
+        "filesize_bytes": 889
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b3f361b54094835580a42fde720a9e9c",
+    "text": "Labels:DEV",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18484.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18484",
+          "key": "MAP-557",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-13T00:03:28.730+0000",
+        "date_modified": "2025-03-27T23:48:23.022+0000",
+        "date_processed": "1744461415.3534896",
+        "permissions_data": null,
+        "filesize_bytes": 889
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "11791fb0f7c2e4d82d70cd3a93931f11",
+    "text": "Components:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18484.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18484",
+          "key": "MAP-557",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-13T00:03:28.730+0000",
+        "date_modified": "2025-03-27T23:48:23.022+0000",
+        "date_processed": "1744461415.3534896",
+        "permissions_data": null,
+        "filesize_bytes": 889
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8989792c6e29f9a1e94cf04fad6713b4",
+    "text": "Mobile app coming soon message",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18484.txt",
+      "filetype": "text/plain",
+      "parent_id": "11791fb0f7c2e4d82d70cd3a93931f11",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18484",
+          "key": "MAP-557",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-13T00:03:28.730+0000",
+        "date_modified": "2025-03-27T23:48:23.022+0000",
+        "date_processed": "1744461415.3534896",
+        "permissions_data": null,
+        "filesize_bytes": 889
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bb547e6c73d06d0f4c67aa8822c234c1",
+    "text": "Mobile design catch all message",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18484.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18484",
+          "key": "MAP-557",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-13T00:03:28.730+0000",
+        "date_modified": "2025-03-27T23:48:23.022+0000",
+        "date_processed": "1744461415.3534896",
+        "permissions_data": null,
+        "filesize_bytes": 889
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "115650c8e5967f3cf705b50811134d2a",
+    "text": "[https://www.figma.com/design/Zcq8kGxRCIcNnS7PdLkbeK/Mapper?node",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18484.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18484",
+          "key": "MAP-557",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-13T00:03:28.730+0000",
+        "date_modified": "2025-03-27T23:48:23.022+0000",
+        "date_processed": "1744461415.3534896",
+        "permissions_data": null,
+        "filesize_bytes": 889
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "48f9409b3f0f870a549a2d98344cbc48",
+    "text": "id=9451",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18484.txt",
+      "filetype": "text/plain",
+      "parent_id": "115650c8e5967f3cf705b50811134d2a",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18484",
+          "key": "MAP-557",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-13T00:03:28.730+0000",
+        "date_modified": "2025-03-27T23:48:23.022+0000",
+        "date_processed": "1744461415.3534896",
+        "permissions_data": null,
+        "filesize_bytes": 889
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3cba1a40e18d1be7388ce29cbf0a95ce",
+    "text": "47823&m=dev|https://www.figma.com/design/Zcq8kGxRCIcNnS7PdLkbeK/Mapper?node",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18484.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18484",
+          "key": "MAP-557",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-13T00:03:28.730+0000",
+        "date_modified": "2025-03-27T23:48:23.022+0000",
+        "date_processed": "1744461415.3534896",
+        "permissions_data": null,
+        "filesize_bytes": 889
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6f10c84a9dca531340b0035a2612250f",
+    "text": "id=9451",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18484.txt",
+      "filetype": "text/plain",
+      "parent_id": "3cba1a40e18d1be7388ce29cbf0a95ce",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18484",
+          "key": "MAP-557",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-13T00:03:28.730+0000",
+        "date_modified": "2025-03-27T23:48:23.022+0000",
+        "date_processed": "1744461415.3534896",
+        "permissions_data": null,
+        "filesize_bytes": 889
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b54419c5ca88ba5cd485c07185ce2a9e",
+    "text": "47823&m=dev]",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18484.txt",
+      "filetype": "text/plain",
+      "parent_id": "3cba1a40e18d1be7388ce29cbf0a95ce",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18484",
+          "key": "MAP-557",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-13T00:03:28.730+0000",
+        "date_modified": "2025-03-27T23:48:23.022+0000",
+        "date_processed": "1744461415.3534896",
+        "permissions_data": null,
+        "filesize_bytes": 889
+      }
+    }
+  }
+]

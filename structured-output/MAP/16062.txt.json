@@ -1,0 +1,825 @@
+[
+  {
+    "type": "Title",
+    "element_id": "d14ca84617876894255958fd280a58d8",
+    "text": "IssueID_IssueKey:16062     MAP-158",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ac3a82da6436d35b09c98135b4e3198a",
+    "text": "ProjectID_Key:MAP     Mapper",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1e33be604486dc3511114570f6551c9b",
+    "text": "IssueType:Epic",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c713fb6e697acdcdad46efde3df4eb1f",
+    "text": "Status:Done",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "528bc8d029b851c678e4646eef89de88",
+    "text": "Priority:{'self': 'https://nexefy.atlassian.net/rest/api/2/priority/2', 'iconUrl': 'https://nexefy.atlassian.net/images/icons/priorities/high.svg', 'name': 'High', 'id': '2'}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "63692d12909359996f0b4e3cf608d7b7",
+    "text": "AssigneeID_Name:62e34fec5b8cc5741205a78f     jessica",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "db445b8afc1ad4a62005d2a0372e6bd1",
+    "text": "ReporterAdr_Name:{}     jessica",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f0afdaac8aaab4ee6fcba7bda52b1536",
+    "text": "Labels:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "30503db96f5e4d440291e17b0fbc3938",
+    "text": "Components:Account and Subscription Management",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "995a9e85300c298ef3135e72a7898673",
+    "text": "BigPicture - for ppm, project management     Details: Task period changed by bigpicture to 2024-07-12 : 2024-08-16 BigPicture - for ppm, project management     Details: Task period changed by bigpicture to null : null",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "parent_id": "30503db96f5e4d440291e17b0fbc3938",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e5f96a78e2f764cb15b74a69ac3d84e3",
+    "text": "Subscriptions, Pricing and Credits",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "19e8cdb64ba0e590f58105695215878e",
+    "text": "Manages all subscription, billing, and usage tracking features",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "7b34ddef4c6fa2b9b0572b55de398975",
+    "text": "Scope:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "677523e998a26b25a235ff276231dae3",
+    "text": "Subscription Management",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b3e156ffb38cf396a57008d59b01245a",
+    "text": "Credits, Usage Tracking & Limits",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "96ab43ec88f6d960a490f84889b1ec37",
+    "text": "Pricing Plans",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e200199144cbece642ece998a26bdf58",
+    "text": "As Nexefy, we want to identify and establish a clear and effective pricing model, so that we can increase our revenue and maintain a competitive edge within the market.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "parent_id": "96ab43ec88f6d960a490f84889b1ec37",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ded6c2a4d9e18e58cd80335160d33d17",
+    "text": "Research",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "parent_id": "96ab43ec88f6d960a490f84889b1ec37",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "98f58ad4e7e7d28be15e73d29e97cdff",
+    "text": "how many RTOs, how many courses, rate that RTOs die, rate that courses become outdated, how many courses each RTO makes, what industries are RTOs targeting most, how often they are auditing courses",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "parent_id": "96ab43ec88f6d960a490f84889b1ec37",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "76a273f499c98cf4c29c0f6580fe4969",
+    "text": "identify trends in RTOs, course numbers into the future",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "parent_id": "96ab43ec88f6d960a490f84889b1ec37",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e761e695952b707daf42c9e8d160331f",
+    "text": "Research",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "parent_id": "96ab43ec88f6d960a490f84889b1ec37",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e3f5df7dec433cb2254ca1194a258704",
+    "text": "how long it takes to map a unit, how much a mapper person is paid, how much it costs to host that employee during that time (super, insurance, building rent, electricity, etc etc), identify how much it costs to audit a map",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "parent_id": "96ab43ec88f6d960a490f84889b1ec37",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c2f98bc3b28a551b72039e55f8f16c6e",
+    "text": "research pricing models for service based web products (shutter stock, anthropic, etc)",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "parent_id": "96ab43ec88f6d960a490f84889b1ec37",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "31846890eae0ff2771a589f6c43119dd",
+    "text": "** consider credit/token based models and subscription based models",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "parent_id": "96ab43ec88f6d960a490f84889b1ec37",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dbc8b2ec91af11557be31338f4451163",
+    "text": "Identify the cost base for Nexefy to process a unit map, identify whether there is a ratio/linkage between API calls and cost and potential credits etc, if there is a link between how many units there are and credits etc.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "parent_id": "96ab43ec88f6d960a490f84889b1ec37",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f30a36deff679ee36fb143dfb588ba8d",
+    "text": "Consider from a customer perspective how credits or pricing could be simplified so that its consistent",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "parent_id": "96ab43ec88f6d960a490f84889b1ec37",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6af520cdf8d69cc67962e3932d6fc2fc",
+    "text": "ie. 1 credit per map, per criteria, per? do we need to provide an estimate before they map",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "parent_id": "96ab43ec88f6d960a490f84889b1ec37",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1d77bb8fec9a1dcf8235cd0b781fa0b5",
+    "text": "ie. they hit map and it says this will cost 11 credits to map. or even a preview of this next to the map button.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "parent_id": "96ab43ec88f6d960a490f84889b1ec37",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "636b3ced38a8cab008c8ea7acd3ef259",
+    "text": "[https://docs.google.com/document/d/1KcEY2cla7wc4zsmn01JBuU4bp0cH1T8VSATlnwQBczw/edit?usp=sharing|https://docs.google.com/document/d/1KcEY2cla7wc4zsmn01JBuU4bp0cH1T8VSATlnwQBczw/edit?usp=sharing|smart",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2eb6d83cdb36bf66ab9c839a2cfcaeee",
+    "text": "link]",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16062.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16062",
+          "key": "MAP-158",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0149446",
+        "permissions_data": null,
+        "filesize_bytes": 2678
+      }
+    }
+  }
+]

@@ -1,0 +1,328 @@
+[
+  {
+    "type": "Title",
+    "element_id": "b24924e9559d02035ddea57b7d7e15c3",
+    "text": "IssueID_IssueKey:17989     MAP-451",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17989.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17989",
+          "key": "MAP-451",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2637055",
+        "permissions_data": null,
+        "filesize_bytes": 1074
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2203047c2d6d6ff18b7149868f5fabda",
+    "text": "ProjectID_Key:MAP     Mapper",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17989.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17989",
+          "key": "MAP-451",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2637055",
+        "permissions_data": null,
+        "filesize_bytes": 1074
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c1526e9a177344c4c86cc0397c927f16",
+    "text": "IssueType:Bug",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17989.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17989",
+          "key": "MAP-451",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2637055",
+        "permissions_data": null,
+        "filesize_bytes": 1074
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a861025d98f9f6ceafedae1c1a08ac90",
+    "text": "Status:Done",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17989.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17989",
+          "key": "MAP-451",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2637055",
+        "permissions_data": null,
+        "filesize_bytes": 1074
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "15c0b0e8a175a00bee6822157755dcf2",
+    "text": "Priority:{'self': 'https://nexefy.atlassian.net/rest/api/2/priority/5', 'iconUrl': 'https://nexefy.atlassian.net/images/icons/priorities/lowest.svg', 'name': 'Lowest', 'id': '5'}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17989.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17989",
+          "key": "MAP-451",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2637055",
+        "permissions_data": null,
+        "filesize_bytes": 1074
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "cbd3062b2f6479347688572f42968616",
+    "text": "AssigneeID_Name:62de37ee4b574e9f2caf31d0     James",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17989.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17989",
+          "key": "MAP-451",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2637055",
+        "permissions_data": null,
+        "filesize_bytes": 1074
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "32bdd8ee7c935d9ac359c113bad91da5",
+    "text": "ReporterAdr_Name:{}     jessica",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17989.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17989",
+          "key": "MAP-451",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2637055",
+        "permissions_data": null,
+        "filesize_bytes": 1074
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c0c5bc5938859222da8823e036a09d0e",
+    "text": "Labels:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17989.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17989",
+          "key": "MAP-451",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2637055",
+        "permissions_data": null,
+        "filesize_bytes": 1074
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ad386a226359ca22404c0ee56da8ce29",
+    "text": "Components:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17989.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17989",
+          "key": "MAP-451",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2637055",
+        "permissions_data": null,
+        "filesize_bytes": 1074
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2cb40eab79ff0a322ac09726dc2cf2f1",
+    "text": "Cached Upload",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17989.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17989",
+          "key": "MAP-451",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2637055",
+        "permissions_data": null,
+        "filesize_bytes": 1074
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b1defdbc21efc1394b871201069ad63c",
+    "text": "If i start a search, select a unit, then upload a document, then go back to the mapper home page, then click Begin to start a new search, then find a *different* unit, then continue to the upload screen, the document i uploaded for the initial incomplete map with the original unit is still cached there.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17989.txt",
+      "filetype": "text/plain",
+      "parent_id": "2cb40eab79ff0a322ac09726dc2cf2f1",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17989",
+          "key": "MAP-451",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2637055",
+        "permissions_data": null,
+        "filesize_bytes": 1074
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1c5bbd61757bc6c7563c0108310a1a66",
+    "text": "Unsure if this is useful functionality or something a user would want, my guess is that its not - but it could be?",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17989.txt",
+      "filetype": "text/plain",
+      "parent_id": "2cb40eab79ff0a322ac09726dc2cf2f1",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17989",
+          "key": "MAP-451",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.2637055",
+        "permissions_data": null,
+        "filesize_bytes": 1074
+      }
+    }
+  }
+]

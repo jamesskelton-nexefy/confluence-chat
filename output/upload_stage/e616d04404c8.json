@@ -1,0 +1,581 @@
+[
+  {
+    "type": "Title",
+    "element_id": "78f199c4327059402c4f264919b02377",
+    "text": "IssueID_IssueKey:16015     MAP-144",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16015.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16015",
+          "key": "MAP-144",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0044234",
+        "permissions_data": null,
+        "filesize_bytes": 1766
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "beaac9bc5fe190cef26083396e1d436e",
+    "text": "ProjectID_Key:MAP     Mapper",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16015.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16015",
+          "key": "MAP-144",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0044234",
+        "permissions_data": null,
+        "filesize_bytes": 1766
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b03b184b06a7d08d33fc0d009196a080",
+    "text": "IssueType:Sub",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16015.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16015",
+          "key": "MAP-144",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0044234",
+        "permissions_data": null,
+        "filesize_bytes": 1766
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ffeb6c3e8da8b890a9be94cbb4e9412c",
+    "text": "task",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16015.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16015",
+          "key": "MAP-144",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0044234",
+        "permissions_data": null,
+        "filesize_bytes": 1766
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8c04accfb654c7449f8302b8c6a17a77",
+    "text": "Status:Done",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16015.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16015",
+          "key": "MAP-144",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0044234",
+        "permissions_data": null,
+        "filesize_bytes": 1766
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "dc92ff542c34db4d3fb6f8b1e89036df",
+    "text": "Priority:{'self': 'https://nexefy.atlassian.net/rest/api/2/priority/5', 'iconUrl': 'https://nexefy.atlassian.net/images/icons/priorities/lowest.svg', 'name': 'Lowest', 'id': '5'}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16015.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16015",
+          "key": "MAP-144",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0044234",
+        "permissions_data": null,
+        "filesize_bytes": 1766
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a5f36973ea7bfecd7918cae3d60414db",
+    "text": "AssigneeID_Name:62e34fec5b8cc5741205a78f     jessica",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16015.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16015",
+          "key": "MAP-144",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0044234",
+        "permissions_data": null,
+        "filesize_bytes": 1766
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "df6ccac87d5312e782f75c9fbdbd197f",
+    "text": "ReporterAdr_Name:james@nexefy.com     James",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16015.txt",
+      "filetype": "text/plain",
+      "parent_id": "a5f36973ea7bfecd7918cae3d60414db",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16015",
+          "key": "MAP-144",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0044234",
+        "permissions_data": null,
+        "filesize_bytes": 1766
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "dcb9a6c236392b09d939bf3fda0b4c85",
+    "text": "Labels:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16015.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16015",
+          "key": "MAP-144",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0044234",
+        "permissions_data": null,
+        "filesize_bytes": 1766
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b95dde8838f9f3f5edbe74f451f62055",
+    "text": "Components:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16015.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16015",
+          "key": "MAP-144",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0044234",
+        "permissions_data": null,
+        "filesize_bytes": 1766
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1221ff3c1630eadaeb0cc16fa05407c6",
+    "text": "User Journey: Map results to dashboard",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16015.txt",
+      "filetype": "text/plain",
+      "parent_id": "b95dde8838f9f3f5edbe74f451f62055",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16015",
+          "key": "MAP-144",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0044234",
+        "permissions_data": null,
+        "filesize_bytes": 1766
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fb07a3f728eb3ae32819ec6d38dcfd9f",
+    "text": "_As a user, I need to know my work will be saved when I navigate away from the results page after completing the mapping process so that I can be confident in the product and that I will not lose my work._",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16015.txt",
+      "filetype": "text/plain",
+      "parent_id": "b95dde8838f9f3f5edbe74f451f62055",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16015",
+          "key": "MAP-144",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0044234",
+        "permissions_data": null,
+        "filesize_bytes": 1766
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4a5eb6676b09deae4b93ba5f25db8329",
+    "text": "Features/acceptance Criteria:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16015.txt",
+      "filetype": "text/plain",
+      "parent_id": "b95dde8838f9f3f5edbe74f451f62055",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16015",
+          "key": "MAP-144",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0044234",
+        "permissions_data": null,
+        "filesize_bytes": 1766
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5bebf9a21d8fed11ce0497ec7846cd3b",
+    "text": "Dashboard button in the universal navigation bar.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16015.txt",
+      "filetype": "text/plain",
+      "parent_id": "b95dde8838f9f3f5edbe74f451f62055",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16015",
+          "key": "MAP-144",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0044234",
+        "permissions_data": null,
+        "filesize_bytes": 1766
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6089e00b169ec3fce16f38bc6e423a6a",
+    "text": "Auto",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16015.txt",
+      "filetype": "text/plain",
+      "parent_id": "b95dde8838f9f3f5edbe74f451f62055",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16015",
+          "key": "MAP-144",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0044234",
+        "permissions_data": null,
+        "filesize_bytes": 1766
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c7b0d73943cef375b90811e5b398cb4e",
+    "text": "save text with tick, possibly under the back button in the dark blue area so they see it when about to navigate away via back or dashboard.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16015.txt",
+      "filetype": "text/plain",
+      "parent_id": "b95dde8838f9f3f5edbe74f451f62055",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16015",
+          "key": "MAP-144",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0044234",
+        "permissions_data": null,
+        "filesize_bytes": 1766
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "38da0c321b827dc9de04f81c35f77a01",
+    "text": "Back button in the sub",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16015.txt",
+      "filetype": "text/plain",
+      "parent_id": "b95dde8838f9f3f5edbe74f451f62055",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16015",
+          "key": "MAP-144",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0044234",
+        "permissions_data": null,
+        "filesize_bytes": 1766
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "222c3a45245050bee0b8ea7c475a5a60",
+    "text": "bar area with the 3 wizard process steps, so the user understands that the back button takes them back one page in this process.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16015.txt",
+      "filetype": "text/plain",
+      "parent_id": "b95dde8838f9f3f5edbe74f451f62055",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16015",
+          "key": "MAP-144",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0044234",
+        "permissions_data": null,
+        "filesize_bytes": 1766
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3c5f174b8c21b126d13e8697dd2a6caa",
+    "text": "New Map button (in the universal navigation bar",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16015.txt",
+      "filetype": "text/plain",
+      "parent_id": "b95dde8838f9f3f5edbe74f451f62055",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16015",
+          "key": "MAP-144",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0044234",
+        "permissions_data": null,
+        "filesize_bytes": 1766
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "61ae7a516f16a0c26bd3106aeca3cb43",
+    "text": "only visible on the results page (not the other wizard pages) takes them to the dashboard with the wizard expanded and the curser in the search entry field.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16015.txt",
+      "filetype": "text/plain",
+      "parent_id": "b95dde8838f9f3f5edbe74f451f62055",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16015",
+          "key": "MAP-144",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0044234",
+        "permissions_data": null,
+        "filesize_bytes": 1766
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3a08e9fd2fe3467f2efeeee4541e2a0e",
+    "text": "{panel:bgColor=#fffae6} _We may need to consider what happens if the user attempts to navigate to the dahsboard before completing the wizard - ie. a pop up informing them if they have not finished the mapping process, it will not be saved._ {panel}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16015.txt",
+      "filetype": "text/plain",
+      "parent_id": "b95dde8838f9f3f5edbe74f451f62055",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16015",
+          "key": "MAP-144",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0044234",
+        "permissions_data": null,
+        "filesize_bytes": 1766
+      }
+    }
+  }
+]

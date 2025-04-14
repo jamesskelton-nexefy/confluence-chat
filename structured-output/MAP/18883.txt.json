@@ -1,0 +1,301 @@
+[
+  {
+    "type": "Title",
+    "element_id": "1d6d97f4171f8ad7156d6af980cfe12f",
+    "text": "IssueID_IssueKey:18883     MAP-591",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18883.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18883",
+          "key": "MAP-591",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-28T01:23:24.834+0000",
+        "date_modified": "2025-03-28T01:23:27.974+0000",
+        "date_processed": "1744461415.3812811",
+        "permissions_data": null,
+        "filesize_bytes": 797
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "714711c615d8a58461375972f573d294",
+    "text": "ProjectID_Key:MAP     Mapper",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18883.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18883",
+          "key": "MAP-591",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-28T01:23:24.834+0000",
+        "date_modified": "2025-03-28T01:23:27.974+0000",
+        "date_processed": "1744461415.3812811",
+        "permissions_data": null,
+        "filesize_bytes": 797
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a4a2e5ca602d9057ea9443438e76cc2d",
+    "text": "IssueType:Task",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18883.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18883",
+          "key": "MAP-591",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-28T01:23:24.834+0000",
+        "date_modified": "2025-03-28T01:23:27.974+0000",
+        "date_processed": "1744461415.3812811",
+        "permissions_data": null,
+        "filesize_bytes": 797
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1d55fdd147f739e891b402fb404128e7",
+    "text": "Status:Selected for Development",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18883.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18883",
+          "key": "MAP-591",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-28T01:23:24.834+0000",
+        "date_modified": "2025-03-28T01:23:27.974+0000",
+        "date_processed": "1744461415.3812811",
+        "permissions_data": null,
+        "filesize_bytes": 797
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "43c0eaac9cdf7b5e93eab727fcf93348",
+    "text": "Priority:{'self': 'https://nexefy.atlassian.net/rest/api/2/priority/3', 'iconUrl': 'https://nexefy.atlassian.net/images/icons/priorities/medium.svg', 'name': 'Medium', 'id': '3'}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18883.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18883",
+          "key": "MAP-591",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-28T01:23:24.834+0000",
+        "date_modified": "2025-03-28T01:23:27.974+0000",
+        "date_processed": "1744461415.3812811",
+        "permissions_data": null,
+        "filesize_bytes": 797
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "99e65919a8b3fb32091fbd05566ceb7e",
+    "text": "AssigneeID_Name:62e3511e2fe585febb3c5243     Marcus Hoenig",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18883.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18883",
+          "key": "MAP-591",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-28T01:23:24.834+0000",
+        "date_modified": "2025-03-28T01:23:27.974+0000",
+        "date_processed": "1744461415.3812811",
+        "permissions_data": null,
+        "filesize_bytes": 797
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2c1d7465f7e1e84e6cfde772798c317f",
+    "text": "ReporterAdr_Name:james@nexefy.com     James",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18883.txt",
+      "filetype": "text/plain",
+      "parent_id": "99e65919a8b3fb32091fbd05566ceb7e",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18883",
+          "key": "MAP-591",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-28T01:23:24.834+0000",
+        "date_modified": "2025-03-28T01:23:27.974+0000",
+        "date_processed": "1744461415.3812811",
+        "permissions_data": null,
+        "filesize_bytes": 797
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2691b9d77a6998f41144b9c97407e635",
+    "text": "Labels:DEV",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18883.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18883",
+          "key": "MAP-591",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-28T01:23:24.834+0000",
+        "date_modified": "2025-03-28T01:23:27.974+0000",
+        "date_processed": "1744461415.3812811",
+        "permissions_data": null,
+        "filesize_bytes": 797
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d25471214a692b2072ad23e7355d2d88",
+    "text": "Components:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18883.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18883",
+          "key": "MAP-591",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-28T01:23:24.834+0000",
+        "date_modified": "2025-03-28T01:23:27.974+0000",
+        "date_processed": "1744461415.3812811",
+        "permissions_data": null,
+        "filesize_bytes": 797
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "61a4f1e96119c68a99c04a585ebd673c",
+    "text": "Implement Read/Unread States and Flag Button",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18883.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18883",
+          "key": "MAP-591",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-28T01:23:24.834+0000",
+        "date_modified": "2025-03-28T01:23:27.974+0000",
+        "date_processed": "1744461415.3812811",
+        "permissions_data": null,
+        "filesize_bytes": 797
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "10f54de33258300c21193b36af66c286",
+    "text": "Front end dev for the read/unread states on criteria, and the flag icon.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18883.txt",
+      "filetype": "text/plain",
+      "parent_id": "61a4f1e96119c68a99c04a585ebd673c",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18883",
+          "key": "MAP-591",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-28T01:23:24.834+0000",
+        "date_modified": "2025-03-28T01:23:27.974+0000",
+        "date_processed": "1744461415.3812811",
+        "permissions_data": null,
+        "filesize_bytes": 797
+      }
+    }
+  }
+]

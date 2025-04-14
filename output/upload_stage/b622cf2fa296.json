@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Title",
+    "element_id": "b7e8d953f9b28c83f0e9873bec3e1fe6",
+    "text": "IssueID_IssueKey:18224     MAP-496",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18224.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18224",
+          "key": "MAP-496",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-03T08:08:50.042+0000",
+        "date_modified": "2025-03-27T23:47:20.819+0000",
+        "date_processed": "1744461415.3017",
+        "permissions_data": null,
+        "filesize_bytes": 862
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6d5fec8d68bbca6a617eeb2923924c46",
+    "text": "ProjectID_Key:MAP     Mapper",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18224.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18224",
+          "key": "MAP-496",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-03T08:08:50.042+0000",
+        "date_modified": "2025-03-27T23:47:20.819+0000",
+        "date_processed": "1744461415.3017",
+        "permissions_data": null,
+        "filesize_bytes": 862
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "541cd7c067f011d91561473bfe2aa4a3",
+    "text": "IssueType:Bug",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18224.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18224",
+          "key": "MAP-496",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-03T08:08:50.042+0000",
+        "date_modified": "2025-03-27T23:47:20.819+0000",
+        "date_processed": "1744461415.3017",
+        "permissions_data": null,
+        "filesize_bytes": 862
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "37379705aa0b319bdff22d7e8b6aa7e0",
+    "text": "Status:Done",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18224.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18224",
+          "key": "MAP-496",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-03T08:08:50.042+0000",
+        "date_modified": "2025-03-27T23:47:20.819+0000",
+        "date_processed": "1744461415.3017",
+        "permissions_data": null,
+        "filesize_bytes": 862
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "7b5e72dd98c0309dd2bf849c3cc06327",
+    "text": "Priority:{'self': 'https://nexefy.atlassian.net/rest/api/2/priority/5', 'iconUrl': 'https://nexefy.atlassian.net/images/icons/priorities/lowest.svg', 'name': 'Lowest', 'id': '5'}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18224.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18224",
+          "key": "MAP-496",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-03T08:08:50.042+0000",
+        "date_modified": "2025-03-27T23:47:20.819+0000",
+        "date_processed": "1744461415.3017",
+        "permissions_data": null,
+        "filesize_bytes": 862
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f89b5b82809fede1b631b68d53c9f43f",
+    "text": "AssigneeID_Name:{}     {}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18224.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18224",
+          "key": "MAP-496",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-03T08:08:50.042+0000",
+        "date_modified": "2025-03-27T23:47:20.819+0000",
+        "date_processed": "1744461415.3017",
+        "permissions_data": null,
+        "filesize_bytes": 862
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0369b6a946336599d786a8f3309157ea",
+    "text": "ReporterAdr_Name:james@nexefy.com     James",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18224.txt",
+      "filetype": "text/plain",
+      "parent_id": "f89b5b82809fede1b631b68d53c9f43f",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18224",
+          "key": "MAP-496",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-03T08:08:50.042+0000",
+        "date_modified": "2025-03-27T23:47:20.819+0000",
+        "date_processed": "1744461415.3017",
+        "permissions_data": null,
+        "filesize_bytes": 862
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f22b943be5b904119f707e925cd899bf",
+    "text": "Labels:DEV     UAT",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18224.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18224",
+          "key": "MAP-496",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-03T08:08:50.042+0000",
+        "date_modified": "2025-03-27T23:47:20.819+0000",
+        "date_processed": "1744461415.3017",
+        "permissions_data": null,
+        "filesize_bytes": 862
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a1483f352957bbca086818a3d5eb2083",
+    "text": "Components:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18224.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18224",
+          "key": "MAP-496",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-03T08:08:50.042+0000",
+        "date_modified": "2025-03-27T23:47:20.819+0000",
+        "date_processed": "1744461415.3017",
+        "permissions_data": null,
+        "filesize_bytes": 862
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "eff43d7179132bc62cf2741d711d94e6",
+    "text": "Professional doesn't add correct credits",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18224.txt",
+      "filetype": "text/plain",
+      "parent_id": "a1483f352957bbca086818a3d5eb2083",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18224",
+          "key": "MAP-496",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-03T08:08:50.042+0000",
+        "date_modified": "2025-03-27T23:47:20.819+0000",
+        "date_processed": "1744461415.3017",
+        "permissions_data": null,
+        "filesize_bytes": 862
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e447097943ef3164f07c8b2642ecd6e9",
+    "text": "I was on essential and had 276 credits in the bank",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18224.txt",
+      "filetype": "text/plain",
+      "parent_id": "a1483f352957bbca086818a3d5eb2083",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18224",
+          "key": "MAP-496",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-03T08:08:50.042+0000",
+        "date_modified": "2025-03-27T23:47:20.819+0000",
+        "date_processed": "1744461415.3017",
+        "permissions_data": null,
+        "filesize_bytes": 862
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a182681e37c13c76878624b827e58396",
+    "text": "I then changed plan to professional",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18224.txt",
+      "filetype": "text/plain",
+      "parent_id": "a1483f352957bbca086818a3d5eb2083",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18224",
+          "key": "MAP-496",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-03T08:08:50.042+0000",
+        "date_modified": "2025-03-27T23:47:20.819+0000",
+        "date_processed": "1744461415.3017",
+        "permissions_data": null,
+        "filesize_bytes": 862
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "94dd0d2e4e83af3c531ec62b0d13493f",
+    "text": "Should have added 1200 credits - so 1476 today",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18224.txt",
+      "filetype": "text/plain",
+      "parent_id": "a1483f352957bbca086818a3d5eb2083",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18224",
+          "key": "MAP-496",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-03T08:08:50.042+0000",
+        "date_modified": "2025-03-27T23:47:20.819+0000",
+        "date_processed": "1744461415.3017",
+        "permissions_data": null,
+        "filesize_bytes": 862
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f38be078716b4a57e49e1e3ed33e03b3",
+    "text": "Actually added 599 credits (875 in the bank)",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18224.txt",
+      "filetype": "text/plain",
+      "parent_id": "a1483f352957bbca086818a3d5eb2083",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18224",
+          "key": "MAP-496",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-03T08:08:50.042+0000",
+        "date_modified": "2025-03-27T23:47:20.819+0000",
+        "date_processed": "1744461415.3017",
+        "permissions_data": null,
+        "filesize_bytes": 862
+      }
+    }
+  }
+]

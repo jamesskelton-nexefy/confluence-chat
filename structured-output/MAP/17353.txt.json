@@ -1,0 +1,441 @@
+[
+  {
+    "type": "Title",
+    "element_id": "c5a7abf10ee08d3aecfcead29e3d02dd",
+    "text": "IssueID_IssueKey:17353     MAP-290",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17353.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17353",
+          "key": "MAP-290",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.115363",
+        "permissions_data": null,
+        "filesize_bytes": 3624
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "806c95a653a8fe77d6fe39a185ac9679",
+    "text": "ProjectID_Key:MAP     Mapper",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17353.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17353",
+          "key": "MAP-290",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.115363",
+        "permissions_data": null,
+        "filesize_bytes": 3624
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "da606747f999792a16ea2f1d59d4f8b6",
+    "text": "IssueType:Bug",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17353.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17353",
+          "key": "MAP-290",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.115363",
+        "permissions_data": null,
+        "filesize_bytes": 3624
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "02b96257db8a432eee0b3b4b1109545b",
+    "text": "Status:Done",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17353.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17353",
+          "key": "MAP-290",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.115363",
+        "permissions_data": null,
+        "filesize_bytes": 3624
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c58615f7795b1c047f73362760f12690",
+    "text": "Priority:{'self': 'https://nexefy.atlassian.net/rest/api/2/priority/5', 'iconUrl': 'https://nexefy.atlassian.net/images/icons/priorities/lowest.svg', 'name': 'Lowest', 'id': '5'}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17353.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17353",
+          "key": "MAP-290",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.115363",
+        "permissions_data": null,
+        "filesize_bytes": 3624
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4e612ad6f431632717b3afc3bd714bb0",
+    "text": "AssigneeID_Name:712020:03a1fd5a-a3b6-4dbe-aa37-328404a582f5     Isaac Dart",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17353.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17353",
+          "key": "MAP-290",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.115363",
+        "permissions_data": null,
+        "filesize_bytes": 3624
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cbdc506413c4fe1eb3b3a8334ac784b4",
+    "text": "ReporterAdr_Name:james@nexefy.com     James",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17353.txt",
+      "filetype": "text/plain",
+      "parent_id": "4e612ad6f431632717b3afc3bd714bb0",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17353",
+          "key": "MAP-290",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.115363",
+        "permissions_data": null,
+        "filesize_bytes": 3624
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "868bd16ced582e633108b68552aa883a",
+    "text": "Labels:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17353.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17353",
+          "key": "MAP-290",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.115363",
+        "permissions_data": null,
+        "filesize_bytes": 3624
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5ba5ccc6b430eb2e091dfeef1015859e",
+    "text": "Components:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17353.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17353",
+          "key": "MAP-290",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.115363",
+        "permissions_data": null,
+        "filesize_bytes": 3624
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c0fce57f73fa55f20d1cc8a9cd5214f9",
+    "text": "Generate a new API key per user account registration",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17353.txt",
+      "filetype": "text/plain",
+      "parent_id": "5ba5ccc6b430eb2e091dfeef1015859e",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17353",
+          "key": "MAP-290",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.115363",
+        "permissions_data": null,
+        "filesize_bytes": 3624
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "eef16635854c35726d6835c73923ba6a",
+    "text": "After some research this looks to be the best approach.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17353.txt",
+      "filetype": "text/plain",
+      "parent_id": "5ba5ccc6b430eb2e091dfeef1015859e",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17353",
+          "key": "MAP-290",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.115363",
+        "permissions_data": null,
+        "filesize_bytes": 3624
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "56f3b177195c9d2953633a7b3beda35d",
+    "text": "Yes, you can automatically create and associate an API key with a user as they create a new account. This is a good practice for streamlining user onboarding while maintaining individual API key management. Here's how you could approach this:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17353.txt",
+      "filetype": "text/plain",
+      "parent_id": "5ba5ccc6b430eb2e091dfeef1015859e",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17353",
+          "key": "MAP-290",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.115363",
+        "permissions_data": null,
+        "filesize_bytes": 3624
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "be7883e5241240e0ba5de4569c73dacd",
+    "text": "# User Registration Process: When a user creates a new account in your system: a. Create the user account in your database b. Make an API call to Anthropic to generate a new API key c. Associate this new API key with the user in your database d. Optionally, set up any initial usage limits or configurations for the new user # Implementation Considerations: User Registration with Anthropic API Key Generation Click to open code This example demonstrates: #* Creating a user account #* Generating an API key via Anthropic's API #* Storing the API key securely associated with the user #  Note: This is a simplified example. In a production environment, you'd want to add error handling, use environment variables for sensitive information, and possibly use asynchronous processing for API key generation. # Security Considerations: #* Never expose the full API key to the user. Store it securely on your backend. #* Use HTTPS for all communications. #* Implement proper authentication and authorization in your application. # Error Handling: #* Have a fallback plan if the API key generation fails. #* Implement retry logic for API calls to Anthropic. # Scalability: #* Consider using a job queue for API key generation if you expect high volume sign-ups. # User Management: #* Implement features to revoke, regenerate, or rotate API keys as needed. #* Provide usage statistics to users based on their individual API key.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17353.txt",
+      "filetype": "text/plain",
+      "parent_id": "5ba5ccc6b430eb2e091dfeef1015859e",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17353",
+          "key": "MAP-290",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.115363",
+        "permissions_data": null,
+        "filesize_bytes": 3624
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b85e6215874525d0da3008f2c930ff25",
+    "text": "This approach allows you to maintain individual API keys for each user while providing a seamless onboarding experience. It gives you granular control over each user's API usage and makes it easy to manage access on a per-user basis.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17353.txt",
+      "filetype": "text/plain",
+      "parent_id": "5ba5ccc6b430eb2e091dfeef1015859e",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17353",
+          "key": "MAP-290",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.115363",
+        "permissions_data": null,
+        "filesize_bytes": 3624
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "90949eb7169f3d1bfb9951c7b02730ad",
+    "text": "Example Code -",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17353.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17353",
+          "key": "MAP-290",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.115363",
+        "permissions_data": null,
+        "filesize_bytes": 3624
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e2f8c22a35db11af49e2bdfa2a515e52",
+    "text": "{{import requests from django.contrib.auth.models import User from django.db import models class UserProfile(models.Model): user = models.OneToOneField(User, on_delete=models.CASCADE) anthropic_api_key = models.CharField(max_length=100) def register_user(username, email, password): # Create user account user = User.objects.create_user(username=username, email=email, password=password) # Generate Anthropic API key (replace with actual Anthropic API endpoint) response = requests.post( 'https://api.anthropic.com/v1/api_keys', headers={'Authorization': 'Bearer YOUR_ANTHROPIC_ADMIN_KEY'}, json={'description': f'API key for user {username}'} ) new_api_key = response.json()['api_key'] # Associate API key with user UserProfile.objects.create(user=user, anthropic_api_key=new_api_key) return user # Usage new_user = register_user('newuser', 'newuser@example.com', 'securepassword')}}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17353.txt",
+      "filetype": "text/plain",
+      "parent_id": "90949eb7169f3d1bfb9951c7b02730ad",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17353",
+          "key": "MAP-290",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.115363",
+        "permissions_data": null,
+        "filesize_bytes": 3624
+      }
+    }
+  }
+]

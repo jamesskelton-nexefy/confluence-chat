@@ -1,0 +1,301 @@
+[
+  {
+    "type": "Title",
+    "element_id": "cec1490b2126d9460db1767be9742fba",
+    "text": "IssueID_IssueKey:19046     MAP-609",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "19046.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "19046",
+          "key": "MAP-609",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-04-03T02:06:03.755+0000",
+        "date_modified": "2025-04-08T01:57:38.740+0000",
+        "date_processed": "1744461415.3952873",
+        "permissions_data": null,
+        "filesize_bytes": 792
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "7e8bbc51b5076316eebd38f2f32fbbf1",
+    "text": "ProjectID_Key:MAP     Mapper",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "19046.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "19046",
+          "key": "MAP-609",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-04-03T02:06:03.755+0000",
+        "date_modified": "2025-04-08T01:57:38.740+0000",
+        "date_processed": "1744461415.3952873",
+        "permissions_data": null,
+        "filesize_bytes": 792
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "81659cddb5fa3791a45c921956425ad2",
+    "text": "IssueType:Bug",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "19046.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "19046",
+          "key": "MAP-609",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-04-03T02:06:03.755+0000",
+        "date_modified": "2025-04-08T01:57:38.740+0000",
+        "date_processed": "1744461415.3952873",
+        "permissions_data": null,
+        "filesize_bytes": 792
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1a9c705ee367755b1eb24143cea41810",
+    "text": "Status:In Review",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "19046.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "19046",
+          "key": "MAP-609",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-04-03T02:06:03.755+0000",
+        "date_modified": "2025-04-08T01:57:38.740+0000",
+        "date_processed": "1744461415.3952873",
+        "permissions_data": null,
+        "filesize_bytes": 792
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e1101b2f2a697b4f9dedcc0986e154e9",
+    "text": "Priority:{'self': 'https://nexefy.atlassian.net/rest/api/2/priority/5', 'iconUrl': 'https://nexefy.atlassian.net/images/icons/priorities/lowest.svg', 'name': 'Lowest', 'id': '5'}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "19046.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "19046",
+          "key": "MAP-609",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-04-03T02:06:03.755+0000",
+        "date_modified": "2025-04-08T01:57:38.740+0000",
+        "date_processed": "1744461415.3952873",
+        "permissions_data": null,
+        "filesize_bytes": 792
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "375dff3a2356eff2122726054d22590e",
+    "text": "AssigneeID_Name:62e3511e2fe585febb3c5243     Marcus Hoenig",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "19046.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "19046",
+          "key": "MAP-609",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-04-03T02:06:03.755+0000",
+        "date_modified": "2025-04-08T01:57:38.740+0000",
+        "date_processed": "1744461415.3952873",
+        "permissions_data": null,
+        "filesize_bytes": 792
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a6e943fb33ac4fcb87a2b3ef6cf6b55d",
+    "text": "ReporterAdr_Name:{}     Marcus Hoenig",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "19046.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "19046",
+          "key": "MAP-609",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-04-03T02:06:03.755+0000",
+        "date_modified": "2025-04-08T01:57:38.740+0000",
+        "date_processed": "1744461415.3952873",
+        "permissions_data": null,
+        "filesize_bytes": 792
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "171f82f57aa214b1f23efe24bd830082",
+    "text": "Labels:DEV",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "19046.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "19046",
+          "key": "MAP-609",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-04-03T02:06:03.755+0000",
+        "date_modified": "2025-04-08T01:57:38.740+0000",
+        "date_processed": "1744461415.3952873",
+        "permissions_data": null,
+        "filesize_bytes": 792
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d8c99fc468cebd8e618ebca46bdc0208",
+    "text": "Components:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "19046.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "19046",
+          "key": "MAP-609",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-04-03T02:06:03.755+0000",
+        "date_modified": "2025-04-08T01:57:38.740+0000",
+        "date_processed": "1744461415.3952873",
+        "permissions_data": null,
+        "filesize_bytes": 792
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5610210b913d77acb0670fdf8e3e9c82",
+    "text": "I can't view different versions on the Report Page",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "19046.txt",
+      "filetype": "text/plain",
+      "parent_id": "d8c99fc468cebd8e618ebca46bdc0208",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "19046",
+          "key": "MAP-609",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-04-03T02:06:03.755+0000",
+        "date_modified": "2025-04-08T01:57:38.740+0000",
+        "date_processed": "1744461415.3952873",
+        "permissions_data": null,
+        "filesize_bytes": 792
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c3db8f45847d712e37afaf1ddd401f7d",
+    "text": "The view options for the versions options do not change versions on the report page",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "19046.txt",
+      "filetype": "text/plain",
+      "parent_id": "d8c99fc468cebd8e618ebca46bdc0208",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "19046",
+          "key": "MAP-609",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-04-03T02:06:03.755+0000",
+        "date_modified": "2025-04-08T01:57:38.740+0000",
+        "date_processed": "1744461415.3952873",
+        "permissions_data": null,
+        "filesize_bytes": 792
+      }
+    }
+  }
+]

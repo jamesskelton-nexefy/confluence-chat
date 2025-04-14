@@ -1,0 +1,356 @@
+[
+  {
+    "type": "Title",
+    "element_id": "a67a5c48a195dd835c8e565aa133c440",
+    "text": "IssueID_IssueKey:18903     MAP-602",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18903.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18903",
+          "key": "MAP-602",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-28T04:36:43.940+0000",
+        "date_modified": "2025-03-28T04:36:44.616+0000",
+        "date_processed": "1744461415.3902807",
+        "permissions_data": null,
+        "filesize_bytes": 744
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f9740496774b7848fedb1ba4a6f3e5c9",
+    "text": "ProjectID_Key:MAP     Mapper",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18903.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18903",
+          "key": "MAP-602",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-28T04:36:43.940+0000",
+        "date_modified": "2025-03-28T04:36:44.616+0000",
+        "date_processed": "1744461415.3902807",
+        "permissions_data": null,
+        "filesize_bytes": 744
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f46e2be0abbcc1f44f51f27487b87051",
+    "text": "IssueType:Story",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18903.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18903",
+          "key": "MAP-602",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-28T04:36:43.940+0000",
+        "date_modified": "2025-03-28T04:36:44.616+0000",
+        "date_processed": "1744461415.3902807",
+        "permissions_data": null,
+        "filesize_bytes": 744
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "51647ce63fe94c1fc2f3ee33b4d0ae8f",
+    "text": "Status:In Progress",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18903.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18903",
+          "key": "MAP-602",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-28T04:36:43.940+0000",
+        "date_modified": "2025-03-28T04:36:44.616+0000",
+        "date_processed": "1744461415.3902807",
+        "permissions_data": null,
+        "filesize_bytes": 744
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1f5185b8051b7fc592ea4e47a9fff9d2",
+    "text": "Priority:{'self': 'https://nexefy.atlassian.net/rest/api/2/priority/2', 'iconUrl': 'https://nexefy.atlassian.net/images/icons/priorities/high.svg', 'name': 'High', 'id': '2'}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18903.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18903",
+          "key": "MAP-602",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-28T04:36:43.940+0000",
+        "date_modified": "2025-03-28T04:36:44.616+0000",
+        "date_processed": "1744461415.3902807",
+        "permissions_data": null,
+        "filesize_bytes": 744
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "7ed13eecf51f6e571849937468a43706",
+    "text": "AssigneeID_Name:62de37ee4b574e9f2caf31d0     James",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18903.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18903",
+          "key": "MAP-602",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-28T04:36:43.940+0000",
+        "date_modified": "2025-03-28T04:36:44.616+0000",
+        "date_processed": "1744461415.3902807",
+        "permissions_data": null,
+        "filesize_bytes": 744
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9fd832a98203697deec2f522054b85c4",
+    "text": "ReporterAdr_Name:james@nexefy.com     James",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18903.txt",
+      "filetype": "text/plain",
+      "parent_id": "7ed13eecf51f6e571849937468a43706",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18903",
+          "key": "MAP-602",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-28T04:36:43.940+0000",
+        "date_modified": "2025-03-28T04:36:44.616+0000",
+        "date_processed": "1744461415.3902807",
+        "permissions_data": null,
+        "filesize_bytes": 744
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0982962f4bbd3241cbcb4a323b31cc11",
+    "text": "Labels:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18903.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18903",
+          "key": "MAP-602",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-28T04:36:43.940+0000",
+        "date_modified": "2025-03-28T04:36:44.616+0000",
+        "date_processed": "1744461415.3902807",
+        "permissions_data": null,
+        "filesize_bytes": 744
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0e4b7c961464bddbbf3533e8f9aff91b",
+    "text": "Components:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18903.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18903",
+          "key": "MAP-602",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-28T04:36:43.940+0000",
+        "date_modified": "2025-03-28T04:36:44.616+0000",
+        "date_processed": "1744461415.3902807",
+        "permissions_data": null,
+        "filesize_bytes": 744
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "fda0f9e3fbfe630f849316b16a1fc1cd",
+    "text": "Onboarding",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18903.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18903",
+          "key": "MAP-602",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-28T04:36:43.940+0000",
+        "date_modified": "2025-03-28T04:36:44.616+0000",
+        "date_processed": "1744461415.3902807",
+        "permissions_data": null,
+        "filesize_bytes": 744
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "99eb9385858f27ee19eb0cb0a2769552",
+    "text": "Implement onboarding walkthrough",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18903.txt",
+      "filetype": "text/plain",
+      "parent_id": "fda0f9e3fbfe630f849316b16a1fc1cd",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18903",
+          "key": "MAP-602",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-28T04:36:43.940+0000",
+        "date_modified": "2025-03-28T04:36:44.616+0000",
+        "date_processed": "1744461415.3902807",
+        "permissions_data": null,
+        "filesize_bytes": 744
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "215371872b67171d8d4f85fc4446eaa3",
+    "text": "Onboarding",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18903.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18903",
+          "key": "MAP-602",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-28T04:36:43.940+0000",
+        "date_modified": "2025-03-28T04:36:44.616+0000",
+        "date_processed": "1744461415.3902807",
+        "permissions_data": null,
+        "filesize_bytes": 744
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b620bfe6d08319d1a4ca3961f3d4409c",
+    "text": "Implement onboarding walkthrough",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18903.txt",
+      "filetype": "text/plain",
+      "parent_id": "215371872b67171d8d4f85fc4446eaa3",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18903",
+          "key": "MAP-602",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-28T04:36:43.940+0000",
+        "date_modified": "2025-03-28T04:36:44.616+0000",
+        "date_processed": "1744461415.3902807",
+        "permissions_data": null,
+        "filesize_bytes": 744
+      }
+    }
+  }
+]

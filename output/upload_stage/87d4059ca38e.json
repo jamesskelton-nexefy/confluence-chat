@@ -1,0 +1,438 @@
+[
+  {
+    "type": "Title",
+    "element_id": "5bea35666f7a5e2bfcf207635d4ed199",
+    "text": "IssueID_IssueKey:17680     MAP-320",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17680.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17680",
+          "key": "MAP-320",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.141053",
+        "permissions_data": null,
+        "filesize_bytes": 1346
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5fce977ad34e901cb97e916bc32e9d29",
+    "text": "ProjectID_Key:MAP     Mapper",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17680.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17680",
+          "key": "MAP-320",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.141053",
+        "permissions_data": null,
+        "filesize_bytes": 1346
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "7571ba32dc98f2e69a68a05719fd6f40",
+    "text": "IssueType:Bug",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17680.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17680",
+          "key": "MAP-320",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.141053",
+        "permissions_data": null,
+        "filesize_bytes": 1346
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6599fe82093323edfa0c6360c3e994de",
+    "text": "Status:Done",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17680.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17680",
+          "key": "MAP-320",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.141053",
+        "permissions_data": null,
+        "filesize_bytes": 1346
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4ee115c2fa2b79e2026dcf861c3fedcc",
+    "text": "Priority:{'self': 'https://nexefy.atlassian.net/rest/api/2/priority/2', 'iconUrl': 'https://nexefy.atlassian.net/images/icons/priorities/high.svg', 'name': 'High', 'id': '2'}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17680.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17680",
+          "key": "MAP-320",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.141053",
+        "permissions_data": null,
+        "filesize_bytes": 1346
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ae2a6c65aff6ee8ac1fce43917302092",
+    "text": "AssigneeID_Name:712020:52e06911-eba4-4dcc-a394-4ccbabe66fcd     hayden",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17680.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17680",
+          "key": "MAP-320",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.141053",
+        "permissions_data": null,
+        "filesize_bytes": 1346
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d89e2ada3246ab8316871c34d5cc8b4c",
+    "text": "ReporterAdr_Name:james@nexefy.com     James",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17680.txt",
+      "filetype": "text/plain",
+      "parent_id": "ae2a6c65aff6ee8ac1fce43917302092",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17680",
+          "key": "MAP-320",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.141053",
+        "permissions_data": null,
+        "filesize_bytes": 1346
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a92d7ea4b98d05051530e3d6c6c90c46",
+    "text": "Labels:Renvoi",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17680.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17680",
+          "key": "MAP-320",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.141053",
+        "permissions_data": null,
+        "filesize_bytes": 1346
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "40b54155ba052412825c4721d826bd6c",
+    "text": "Components:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17680.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17680",
+          "key": "MAP-320",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.141053",
+        "permissions_data": null,
+        "filesize_bytes": 1346
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a39a0e41d6ea443da2dbbfeaa79d4185",
+    "text": "Nathan Foottit     Any update on AWS access [~accountid:712020:03a1fd5a-a3b6-4dbe-aa37-328404a582f5] ? Nathan Foottit     Blocked by AWS - account not verified, manual intervention by support hayden     Cloudfront distribution created, ACM SSL validated and added and new subdomain link below:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17680.txt",
+      "filetype": "text/plain",
+      "parent_id": "40b54155ba052412825c4721d826bd6c",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17680",
+          "key": "MAP-320",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.141053",
+        "permissions_data": null,
+        "filesize_bytes": 1346
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6466fd787caecb9e33edccd9af5d8f78",
+    "text": "[https://app.mapper.nexefy.com/apps/mapper",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17680.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17680",
+          "key": "MAP-320",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.141053",
+        "permissions_data": null,
+        "filesize_bytes": 1346
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9d61b53a9787d46d7a3caeed80906d46",
+    "text": "dev/index.html|https://app.mapper.nexefy.com/apps/mapper",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17680.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17680",
+          "key": "MAP-320",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.141053",
+        "permissions_data": null,
+        "filesize_bytes": 1346
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b757d3f7e3a72809b9588be01e1a01e6",
+    "text": "dev/index.html|smart",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17680.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17680",
+          "key": "MAP-320",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.141053",
+        "permissions_data": null,
+        "filesize_bytes": 1346
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2f8fe23a21556598b0a4c1c6a2161375",
+    "text": "link]",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17680.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17680",
+          "key": "MAP-320",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.141053",
+        "permissions_data": null,
+        "filesize_bytes": 1346
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "add7c57b1b4adf21d05e4649da0bee2c",
+    "text": "Implement Cloudfront to enable the subdomain",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17680.txt",
+      "filetype": "text/plain",
+      "parent_id": "2f8fe23a21556598b0a4c1c6a2161375",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17680",
+          "key": "MAP-320",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.141053",
+        "permissions_data": null,
+        "filesize_bytes": 1346
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ae8872761b388255815e366b46399da8",
+    "text": "# ACM SSL cert(s) for {{app.mapper.nexefy.com}} # Cloudfront distribution for mapper-dev S3 bucket client ## {{a7d84727b41c44aea42ea8f80ad2849f-nexefy-public.s3.ap-southeast-2.amazonaws.com}}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17680.txt",
+      "filetype": "text/plain",
+      "parent_id": "2f8fe23a21556598b0a4c1c6a2161375",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17680",
+          "key": "MAP-320",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.141053",
+        "permissions_data": null,
+        "filesize_bytes": 1346
+      }
+    }
+  }
+]

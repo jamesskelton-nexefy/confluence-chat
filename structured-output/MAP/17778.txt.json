@@ -1,0 +1,301 @@
+[
+  {
+    "type": "Title",
+    "element_id": "6401ba7adc10cf26b42f05288d6f7cfa",
+    "text": "IssueID_IssueKey:17778     MAP-350",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17778.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17778",
+          "key": "MAP-350",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.1683195",
+        "permissions_data": null,
+        "filesize_bytes": 821
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9260636082e6b84ebf21ad4395e4ad0e",
+    "text": "ProjectID_Key:MAP     Mapper",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17778.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17778",
+          "key": "MAP-350",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.1683195",
+        "permissions_data": null,
+        "filesize_bytes": 821
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bff124f2e21a54671ed8a6ed70569103",
+    "text": "IssueType:Story",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17778.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17778",
+          "key": "MAP-350",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.1683195",
+        "permissions_data": null,
+        "filesize_bytes": 821
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bd192d694fa9c7be1d24cff642996c35",
+    "text": "Status:Backlog",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17778.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17778",
+          "key": "MAP-350",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.1683195",
+        "permissions_data": null,
+        "filesize_bytes": 821
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5614a21f41fd90caf0f1dba18d5d6647",
+    "text": "Priority:{'self': 'https://nexefy.atlassian.net/rest/api/2/priority/5', 'iconUrl': 'https://nexefy.atlassian.net/images/icons/priorities/lowest.svg', 'name': 'Lowest', 'id': '5'}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17778.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17778",
+          "key": "MAP-350",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.1683195",
+        "permissions_data": null,
+        "filesize_bytes": 821
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "63dfb52ecdc2d8402e2b74f865b23ca4",
+    "text": "AssigneeID_Name:62e3511db6b0b70770d887fc     Kevin Brew",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17778.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17778",
+          "key": "MAP-350",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.1683195",
+        "permissions_data": null,
+        "filesize_bytes": 821
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e62c0a5565e4750c8b0615495d67477c",
+    "text": "ReporterAdr_Name:james@nexefy.com     James",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17778.txt",
+      "filetype": "text/plain",
+      "parent_id": "63dfb52ecdc2d8402e2b74f865b23ca4",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17778",
+          "key": "MAP-350",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.1683195",
+        "permissions_data": null,
+        "filesize_bytes": 821
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ca7ea1a458d09e16c768fcec322e825f",
+    "text": "Labels:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17778.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17778",
+          "key": "MAP-350",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.1683195",
+        "permissions_data": null,
+        "filesize_bytes": 821
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "52cfb3300e56ff9f572d287795dc4bbe",
+    "text": "Components:Knowledge Base, Support and Onboarding",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17778.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17778",
+          "key": "MAP-350",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.1683195",
+        "permissions_data": null,
+        "filesize_bytes": 821
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "cfe36956b0df47900d6b01ef382fede7",
+    "text": "New User Initial Product Onboarding",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17778.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17778",
+          "key": "MAP-350",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.1683195",
+        "permissions_data": null,
+        "filesize_bytes": 821
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5968cf5ae592bed2e5596a7e71e2d4e8",
+    "text": "On first ever login as a new user I need a way to get an understanding of how to proceed.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "17778.txt",
+      "filetype": "text/plain",
+      "parent_id": "cfe36956b0df47900d6b01ef382fede7",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "17778",
+          "key": "MAP-350",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.1683195",
+        "permissions_data": null,
+        "filesize_bytes": 821
+      }
+    }
+  }
+]

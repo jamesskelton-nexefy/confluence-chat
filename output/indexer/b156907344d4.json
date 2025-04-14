@@ -1,0 +1,33 @@
+{
+  "identifier": "15153",
+  "connector_type": "jira",
+  "source_identifiers": {
+    "filename": "15153.txt",
+    "fullpath": "MAP\\15153.txt",
+    "rel_path": "MAP\\15153.txt"
+  },
+  "metadata": {
+    "url": null,
+    "version": null,
+    "record_locator": {
+      "id": "15153",
+      "key": "MAP-19",
+      "board_id": null,
+      "project_id": "MAP"
+    },
+    "date_created": null,
+    "date_modified": null,
+    "date_processed": "1744461414.9178863",
+    "permissions_data": null,
+    "filesize_bytes": 1529
+  },
+  "additional_metadata": {
+    "id": "15153",
+    "key": "MAP-19",
+    "board_id": null,
+    "project_id": "MAP"
+  },
+  "reprocess": false,
+  "local_download_path": "C:\\Users\\JamesSkelton\\.cache\\unstructured\\ingest\\download\\jira\\MAP\\15153.txt",
+  "display_name": null
+}

@@ -1,0 +1,691 @@
+[
+  {
+    "type": "Title",
+    "element_id": "cfe907b8b578c55203ba3c6e78c5dce9",
+    "text": "IssueID_IssueKey:16059     MAP-157",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16059.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16059",
+          "key": "MAP-157",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0139449",
+        "permissions_data": null,
+        "filesize_bytes": 2089
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c48fb45b72ecafdeddf95147bd29255c",
+    "text": "ProjectID_Key:MAP     Mapper",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16059.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16059",
+          "key": "MAP-157",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0139449",
+        "permissions_data": null,
+        "filesize_bytes": 2089
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "66c3fc572c5b662102f2e0e87003f56f",
+    "text": "IssueType:Story",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16059.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16059",
+          "key": "MAP-157",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0139449",
+        "permissions_data": null,
+        "filesize_bytes": 2089
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6648e3750c5e12d9e5db071ca35aa303",
+    "text": "Status:Done",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16059.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16059",
+          "key": "MAP-157",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0139449",
+        "permissions_data": null,
+        "filesize_bytes": 2089
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "be2b7d3b8efa019f7de6135709264664",
+    "text": "Priority:{'self': 'https://nexefy.atlassian.net/rest/api/2/priority/5', 'iconUrl': 'https://nexefy.atlassian.net/images/icons/priorities/lowest.svg', 'name': 'Lowest', 'id': '5'}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16059.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16059",
+          "key": "MAP-157",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0139449",
+        "permissions_data": null,
+        "filesize_bytes": 2089
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4384c4d98ab391ada42669b6518d9d8c",
+    "text": "AssigneeID_Name:62e34fec5b8cc5741205a78f     jessica",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16059.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16059",
+          "key": "MAP-157",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0139449",
+        "permissions_data": null,
+        "filesize_bytes": 2089
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6681800804dac895ce4baf0d5a308a86",
+    "text": "ReporterAdr_Name:{}     jessica",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16059.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16059",
+          "key": "MAP-157",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0139449",
+        "permissions_data": null,
+        "filesize_bytes": 2089
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1d21a127c97237d1a4438a4e15a27579",
+    "text": "Labels:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16059.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16059",
+          "key": "MAP-157",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0139449",
+        "permissions_data": null,
+        "filesize_bytes": 2089
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bbc62b690e61768da83f3460d5b9be3f",
+    "text": "Components:Account and Subscription Management",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16059.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16059",
+          "key": "MAP-157",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0139449",
+        "permissions_data": null,
+        "filesize_bytes": 2089
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "071d906f659d282416b49ddec3fe1f2d",
+    "text": "James     Any updates on this please? Any subtasks?",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16059.txt",
+      "filetype": "text/plain",
+      "parent_id": "bbc62b690e61768da83f3460d5b9be3f",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16059",
+          "key": "MAP-157",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0139449",
+        "permissions_data": null,
+        "filesize_bytes": 2089
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f232b17d95328745b4f6688e76e1e6c8",
+    "text": "Sign In Screen",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16059.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16059",
+          "key": "MAP-157",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0139449",
+        "permissions_data": null,
+        "filesize_bytes": 2089
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "eb897f95146a70d48f7dd655e1b30ba7",
+    "text": "_As a Mapper Customer, I want to log in to the account I have already created so that I can access my previous maps and continue where I left off._",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16059.txt",
+      "filetype": "text/plain",
+      "parent_id": "f232b17d95328745b4f6688e76e1e6c8",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16059",
+          "key": "MAP-157",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0139449",
+        "permissions_data": null,
+        "filesize_bytes": 2089
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f1d9012d3a3018da5cc036974de41e29",
+    "text": "Features/Acceptance Criteria:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16059.txt",
+      "filetype": "text/plain",
+      "parent_id": "f232b17d95328745b4f6688e76e1e6c8",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16059",
+          "key": "MAP-157",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0139449",
+        "permissions_data": null,
+        "filesize_bytes": 2089
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0d7f566d935b64696a721934c6ec0cd9",
+    "text": "Email entry field (add up to 64 characters in local, add up to 255 in domain)",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16059.txt",
+      "filetype": "text/plain",
+      "parent_id": "f232b17d95328745b4f6688e76e1e6c8",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16059",
+          "key": "MAP-157",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0139449",
+        "permissions_data": null,
+        "filesize_bytes": 2089
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "143b085c43e8844f0f7cc783e131b298",
+    "text": "Password entry field (requires minimum of 8 characters, 1 capital letter, and contains 1 number and 1 symbol)",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16059.txt",
+      "filetype": "text/plain",
+      "parent_id": "f232b17d95328745b4f6688e76e1e6c8",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16059",
+          "key": "MAP-157",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0139449",
+        "permissions_data": null,
+        "filesize_bytes": 2089
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e7ee1e2e0ecaa23a1a18d15a92d9a243",
+    "text": "Required fields asterisks (appears when the user fails to enter any of the above fields but clicks the sign in button)",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16059.txt",
+      "filetype": "text/plain",
+      "parent_id": "f232b17d95328745b4f6688e76e1e6c8",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16059",
+          "key": "MAP-157",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0139449",
+        "permissions_data": null,
+        "filesize_bytes": 2089
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3822fc5c10d0898f852b8f8b92cea833",
+    "text": "Remember me label and radio button (if the user checks this, their details will be saved for a faster log in process next time they access the website)",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16059.txt",
+      "filetype": "text/plain",
+      "parent_id": "f232b17d95328745b4f6688e76e1e6c8",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16059",
+          "key": "MAP-157",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0139449",
+        "permissions_data": null,
+        "filesize_bytes": 2089
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cd21f977d91357adb61b28e13af901e4",
+    "text": "Forgot password link {color:#bf2600}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16059.txt",
+      "filetype": "text/plain",
+      "parent_id": "f232b17d95328745b4f6688e76e1e6c8",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16059",
+          "key": "MAP-157",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0139449",
+        "permissions_data": null,
+        "filesize_bytes": 2089
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "378c8358b20f991da1c2acb46deb8222",
+    "text": "_(this process needs to be defined)_",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16059.txt",
+      "filetype": "text/plain",
+      "parent_id": "f232b17d95328745b4f6688e76e1e6c8",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16059",
+          "key": "MAP-157",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0139449",
+        "permissions_data": null,
+        "filesize_bytes": 2089
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "679c3dc8bb56721b97b9fd7e71e9e7cc",
+    "text": "{color}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16059.txt",
+      "filetype": "text/plain",
+      "parent_id": "f232b17d95328745b4f6688e76e1e6c8",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16059",
+          "key": "MAP-157",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0139449",
+        "permissions_data": null,
+        "filesize_bytes": 2089
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a5a0e1ca596e8c1803c4c5dfaf2217da",
+    "text": "** As a returning user, I want the system to allow me to reset my password if i have forgotten it so that I can continue to access my account. AND possibly check which email I have used for my user name by sending an email to that account for sign in.",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16059.txt",
+      "filetype": "text/plain",
+      "parent_id": "f232b17d95328745b4f6688e76e1e6c8",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16059",
+          "key": "MAP-157",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0139449",
+        "permissions_data": null,
+        "filesize_bytes": 2089
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ea1aadd8f3de44f166a94e3a8d437c39",
+    "text": "*** Feature/Acceptance Criteria:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16059.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16059",
+          "key": "MAP-157",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0139449",
+        "permissions_data": null,
+        "filesize_bytes": 2089
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2ae0a8d716b3dec98820b17eb30b2b4b",
+    "text": "**** If more than 3 attempts to enter incorrect password, prompt user via dialogue or similar to reset password, consider lock out for # of incorrect log in attempts, reset password modal to be defined)",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16059.txt",
+      "filetype": "text/plain",
+      "parent_id": "ea1aadd8f3de44f166a94e3a8d437c39",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16059",
+          "key": "MAP-157",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0139449",
+        "permissions_data": null,
+        "filesize_bytes": 2089
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3e3bd0ed2600dbaef579ba29ed2541e7",
+    "text": "Create Account Button (takes them to the create account page)",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16059.txt",
+      "filetype": "text/plain",
+      "parent_id": "ea1aadd8f3de44f166a94e3a8d437c39",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16059",
+          "key": "MAP-157",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0139449",
+        "permissions_data": null,
+        "filesize_bytes": 2089
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "adaf19373c851a04fbafab6bfd737c15",
+    "text": "Sign In Button (processes the sign in form)",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16059.txt",
+      "filetype": "text/plain",
+      "parent_id": "ea1aadd8f3de44f166a94e3a8d437c39",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16059",
+          "key": "MAP-157",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0139449",
+        "permissions_data": null,
+        "filesize_bytes": 2089
+      }
+    }
+  }
+]

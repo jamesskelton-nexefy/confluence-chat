@@ -1,0 +1,33 @@
+{
+  "identifier": "18399",
+  "connector_type": "jira",
+  "source_identifiers": {
+    "filename": "18399.txt",
+    "fullpath": "MAP\\18399.txt",
+    "rel_path": "MAP\\18399.txt"
+  },
+  "metadata": {
+    "url": null,
+    "version": null,
+    "record_locator": {
+      "id": "18399",
+      "key": "MAP-540",
+      "board_id": null,
+      "project_id": "MAP"
+    },
+    "date_created": null,
+    "date_modified": null,
+    "date_processed": "1744461415.3399286",
+    "permissions_data": null,
+    "filesize_bytes": null
+  },
+  "additional_metadata": {
+    "id": "18399",
+    "key": "MAP-540",
+    "board_id": null,
+    "project_id": "MAP"
+  },
+  "reprocess": false,
+  "local_download_path": null,
+  "display_name": null
+}

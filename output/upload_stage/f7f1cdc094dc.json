@@ -1,0 +1,489 @@
+[
+  {
+    "type": "Title",
+    "element_id": "5f54e8781530db88550e8df908deadda",
+    "text": "IssueID_IssueKey:15721     MAP-66",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "15721.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "15721",
+          "key": "MAP-66",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461414.9471042",
+        "permissions_data": null,
+        "filesize_bytes": 1090
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b712088cea62f96a1d1155fb59ab7e9e",
+    "text": "ProjectID_Key:MAP     Mapper",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "15721.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "15721",
+          "key": "MAP-66",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461414.9471042",
+        "permissions_data": null,
+        "filesize_bytes": 1090
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "23ca6ee35f82846c7d6b7b8834b01d6b",
+    "text": "IssueType:Epic",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "15721.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "15721",
+          "key": "MAP-66",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461414.9471042",
+        "permissions_data": null,
+        "filesize_bytes": 1090
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0a2f40b0ac75d075a4202c49f20f025e",
+    "text": "Status:Backlog",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "15721.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "15721",
+          "key": "MAP-66",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461414.9471042",
+        "permissions_data": null,
+        "filesize_bytes": 1090
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "fabe810155ba7e7b4400f67e175271f3",
+    "text": "Priority:{'self': 'https://nexefy.atlassian.net/rest/api/2/priority/2', 'iconUrl': 'https://nexefy.atlassian.net/images/icons/priorities/high.svg', 'name': 'High', 'id': '2'}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "15721.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "15721",
+          "key": "MAP-66",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461414.9471042",
+        "permissions_data": null,
+        "filesize_bytes": 1090
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1939dd81815a6458d4d3b4ab0d0cbdd5",
+    "text": "AssigneeID_Name:{}     {}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "15721.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "15721",
+          "key": "MAP-66",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461414.9471042",
+        "permissions_data": null,
+        "filesize_bytes": 1090
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3ab5176fc0f0a33bc8d0605a240d1f4a",
+    "text": "ReporterAdr_Name:{}     Isaac Dart",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "15721.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "15721",
+          "key": "MAP-66",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461414.9471042",
+        "permissions_data": null,
+        "filesize_bytes": 1090
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "72df2fd75919a7697db1d6267a34d14f",
+    "text": "Labels:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "15721.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "15721",
+          "key": "MAP-66",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461414.9471042",
+        "permissions_data": null,
+        "filesize_bytes": 1090
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a6dcfcb97eff6c2294c86cb21d27dc3d",
+    "text": "Components:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "15721.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "15721",
+          "key": "MAP-66",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461414.9471042",
+        "permissions_data": null,
+        "filesize_bytes": 1090
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bc7a18a56648d0fd53bc98cb2ebcc108",
+    "text": "BigPicture - for ppm, project management     Details: Task period changed by bigpicture to 2024-07-01 : 2024-09-30 BigPicture - for ppm, project management     Details: Task period changed by bigpicture to null : null",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "15721.txt",
+      "filetype": "text/plain",
+      "parent_id": "a6dcfcb97eff6c2294c86cb21d27dc3d",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "15721",
+          "key": "MAP-66",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461414.9471042",
+        "permissions_data": null,
+        "filesize_bytes": 1090
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "72d9f0a1c1b6b95b32f83031176f8bf3",
+    "text": "Platform Infrastructure",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "15721.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "15721",
+          "key": "MAP-66",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461414.9471042",
+        "permissions_data": null,
+        "filesize_bytes": 1090
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "471a5434f048bead6eb81ab25b15afe4",
+    "text": "Covers all account management, security, and platform stability features",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "15721.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "15721",
+          "key": "MAP-66",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461414.9471042",
+        "permissions_data": null,
+        "filesize_bytes": 1090
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e559c6d473c9b6357ac799dd88513740",
+    "text": "Scope:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "15721.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "15721",
+          "key": "MAP-66",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461414.9471042",
+        "permissions_data": null,
+        "filesize_bytes": 1090
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b281097b82788fc5ad63c0457ad81f3b",
+    "text": "User Authentication Systems",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "15721.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "15721",
+          "key": "MAP-66",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461414.9471042",
+        "permissions_data": null,
+        "filesize_bytes": 1090
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "858039879ad558b62b6a07b476ec06d4",
+    "text": "System Performance & Scalability",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "15721.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "15721",
+          "key": "MAP-66",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461414.9471042",
+        "permissions_data": null,
+        "filesize_bytes": 1090
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c18165d1963d13a627901890ca329ffc",
+    "text": "Data Security & Compliance",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "15721.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "15721",
+          "key": "MAP-66",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461414.9471042",
+        "permissions_data": null,
+        "filesize_bytes": 1090
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4d4e1dcad868d5aa1a92ef2d60aa8d31",
+    "text": "Payment Systems",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "15721.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "15721",
+          "key": "MAP-66",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461414.9471042",
+        "permissions_data": null,
+        "filesize_bytes": 1090
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "380b387d8910c83c846055ce3535c342",
+    "text": "Technical Infrastructure",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "15721.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "15721",
+          "key": "MAP-66",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461414.9471042",
+        "permissions_data": null,
+        "filesize_bytes": 1090
+      }
+    }
+  }
+]

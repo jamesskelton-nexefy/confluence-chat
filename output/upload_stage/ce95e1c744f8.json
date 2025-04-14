@@ -1,0 +1,301 @@
+[
+  {
+    "type": "Title",
+    "element_id": "b7ea2c1440067a45ec91c25ae152d203",
+    "text": "IssueID_IssueKey:18429     MAP-552",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18429.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18429",
+          "key": "MAP-552",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-11T07:07:11.477+0000",
+        "date_modified": "2025-03-27T23:48:20.562+0000",
+        "date_processed": "1744461415.3494906",
+        "permissions_data": null,
+        "filesize_bytes": 738
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c9e2f8281ee4823a3478b0dfbbef5b70",
+    "text": "ProjectID_Key:MAP     Mapper",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18429.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18429",
+          "key": "MAP-552",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-11T07:07:11.477+0000",
+        "date_modified": "2025-03-27T23:48:20.562+0000",
+        "date_processed": "1744461415.3494906",
+        "permissions_data": null,
+        "filesize_bytes": 738
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a9817cee33beecb6087403f1e6923e25",
+    "text": "IssueType:Task",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18429.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18429",
+          "key": "MAP-552",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-11T07:07:11.477+0000",
+        "date_modified": "2025-03-27T23:48:20.562+0000",
+        "date_processed": "1744461415.3494906",
+        "permissions_data": null,
+        "filesize_bytes": 738
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e301326ad84af6e9f3fcc45aae8fdeef",
+    "text": "Status:In Review",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18429.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18429",
+          "key": "MAP-552",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-11T07:07:11.477+0000",
+        "date_modified": "2025-03-27T23:48:20.562+0000",
+        "date_processed": "1744461415.3494906",
+        "permissions_data": null,
+        "filesize_bytes": 738
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4dbb52cde875d91e37defcb3e6141c25",
+    "text": "Priority:{'self': 'https://nexefy.atlassian.net/rest/api/2/priority/5', 'iconUrl': 'https://nexefy.atlassian.net/images/icons/priorities/lowest.svg', 'name': 'Lowest', 'id': '5'}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18429.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18429",
+          "key": "MAP-552",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-11T07:07:11.477+0000",
+        "date_modified": "2025-03-27T23:48:20.562+0000",
+        "date_processed": "1744461415.3494906",
+        "permissions_data": null,
+        "filesize_bytes": 738
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "31e9f60da18167dbc9fda32c5428d35b",
+    "text": "AssigneeID_Name:712020:03a1fd5a-a3b6-4dbe-aa37-328404a582f5     Isaac Dart",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18429.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18429",
+          "key": "MAP-552",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-11T07:07:11.477+0000",
+        "date_modified": "2025-03-27T23:48:20.562+0000",
+        "date_processed": "1744461415.3494906",
+        "permissions_data": null,
+        "filesize_bytes": 738
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9a34a9e20ef5b9859593afea938caab8",
+    "text": "ReporterAdr_Name:{}     Isaac Dart",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18429.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18429",
+          "key": "MAP-552",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-11T07:07:11.477+0000",
+        "date_modified": "2025-03-27T23:48:20.562+0000",
+        "date_processed": "1744461415.3494906",
+        "permissions_data": null,
+        "filesize_bytes": 738
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "fa169ccb4c8114d9d2a066d242116e17",
+    "text": "Labels:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18429.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18429",
+          "key": "MAP-552",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-11T07:07:11.477+0000",
+        "date_modified": "2025-03-27T23:48:20.562+0000",
+        "date_processed": "1744461415.3494906",
+        "permissions_data": null,
+        "filesize_bytes": 738
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6ad036b988af0a892212d75e094646df",
+    "text": "Components:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18429.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18429",
+          "key": "MAP-552",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-11T07:07:11.477+0000",
+        "date_modified": "2025-03-27T23:48:20.562+0000",
+        "date_processed": "1744461415.3494906",
+        "permissions_data": null,
+        "filesize_bytes": 738
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3dc1b036d02a2a783bc57efec6d8381b",
+    "text": "Update MapThumbnail to show percentage passed / all criteria count",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18429.txt",
+      "filetype": "text/plain",
+      "parent_id": "6ad036b988af0a892212d75e094646df",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18429",
+          "key": "MAP-552",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-11T07:07:11.477+0000",
+        "date_modified": "2025-03-27T23:48:20.562+0000",
+        "date_processed": "1744461415.3494906",
+        "permissions_data": null,
+        "filesize_bytes": 738
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "72a5be71b491ff934eed6d94ba4b9341",
+    "text": "{}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18429.txt",
+      "filetype": "text/plain",
+      "parent_id": "6ad036b988af0a892212d75e094646df",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18429",
+          "key": "MAP-552",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-11T07:07:11.477+0000",
+        "date_modified": "2025-03-27T23:48:20.562+0000",
+        "date_processed": "1744461415.3494906",
+        "permissions_data": null,
+        "filesize_bytes": 738
+      }
+    }
+  }
+]

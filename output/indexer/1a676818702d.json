@@ -1,0 +1,33 @@
+{
+  "identifier": "18001",
+  "connector_type": "jira",
+  "source_identifiers": {
+    "filename": "18001.txt",
+    "fullpath": "MAP\\18001.txt",
+    "rel_path": "MAP\\18001.txt"
+  },
+  "metadata": {
+    "url": null,
+    "version": null,
+    "record_locator": {
+      "id": "18001",
+      "key": "MAP-463",
+      "board_id": null,
+      "project_id": "MAP"
+    },
+    "date_created": null,
+    "date_modified": null,
+    "date_processed": "1744461415.2736943",
+    "permissions_data": null,
+    "filesize_bytes": null
+  },
+  "additional_metadata": {
+    "id": "18001",
+    "key": "MAP-463",
+    "board_id": null,
+    "project_id": "MAP"
+  },
+  "reprocess": false,
+  "local_download_path": "C:\\Users\\JamesSkelton\\.cache\\unstructured\\ingest\\download\\jira\\MAP\\18001.txt",
+  "display_name": null
+}

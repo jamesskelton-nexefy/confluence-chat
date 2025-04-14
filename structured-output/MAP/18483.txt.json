@@ -1,0 +1,300 @@
+[
+  {
+    "type": "Title",
+    "element_id": "6f9a98c6cb89943530c347cfe10ba479",
+    "text": "IssueID_IssueKey:18483     MAP-556",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18483.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18483",
+          "key": "MAP-556",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-12T23:39:42.701+0000",
+        "date_modified": "2025-03-27T23:48:21.864+0000",
+        "date_processed": "1744461415.3524919",
+        "permissions_data": null,
+        "filesize_bytes": 673
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ad8a2e5601504f28ba268444a7398802",
+    "text": "ProjectID_Key:MAP     Mapper",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18483.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18483",
+          "key": "MAP-556",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-12T23:39:42.701+0000",
+        "date_modified": "2025-03-27T23:48:21.864+0000",
+        "date_processed": "1744461415.3524919",
+        "permissions_data": null,
+        "filesize_bytes": 673
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8e358c474d3d9966d4dc91c5ea6c7a2b",
+    "text": "IssueType:Bug",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18483.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18483",
+          "key": "MAP-556",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-12T23:39:42.701+0000",
+        "date_modified": "2025-03-27T23:48:21.864+0000",
+        "date_processed": "1744461415.3524919",
+        "permissions_data": null,
+        "filesize_bytes": 673
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bdebac6b28908273dfb2f8363ac7d40b",
+    "text": "Status:Done",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18483.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18483",
+          "key": "MAP-556",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-12T23:39:42.701+0000",
+        "date_modified": "2025-03-27T23:48:21.864+0000",
+        "date_processed": "1744461415.3524919",
+        "permissions_data": null,
+        "filesize_bytes": 673
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "28a3d9685e630453bd913c3753de2d6a",
+    "text": "Priority:{'self': 'https://nexefy.atlassian.net/rest/api/2/priority/3', 'iconUrl': 'https://nexefy.atlassian.net/images/icons/priorities/medium.svg', 'name': 'Medium', 'id': '3'}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18483.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18483",
+          "key": "MAP-556",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-12T23:39:42.701+0000",
+        "date_modified": "2025-03-27T23:48:21.864+0000",
+        "date_processed": "1744461415.3524919",
+        "permissions_data": null,
+        "filesize_bytes": 673
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6533aae0e1d797eb129e23a34f1fcab2",
+    "text": "AssigneeID_Name:62e3511e2fe585febb3c5243     Marcus Hoenig",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18483.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18483",
+          "key": "MAP-556",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-12T23:39:42.701+0000",
+        "date_modified": "2025-03-27T23:48:21.864+0000",
+        "date_processed": "1744461415.3524919",
+        "permissions_data": null,
+        "filesize_bytes": 673
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "fab1a21f3ddee620b002476765b11220",
+    "text": "ReporterAdr_Name:{}     Marcus Hoenig",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18483.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18483",
+          "key": "MAP-556",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-12T23:39:42.701+0000",
+        "date_modified": "2025-03-27T23:48:21.864+0000",
+        "date_processed": "1744461415.3524919",
+        "permissions_data": null,
+        "filesize_bytes": 673
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4e1e27cd87d3fcc96a96584c25653b90",
+    "text": "Labels:DEV",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18483.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18483",
+          "key": "MAP-556",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-12T23:39:42.701+0000",
+        "date_modified": "2025-03-27T23:48:21.864+0000",
+        "date_processed": "1744461415.3524919",
+        "permissions_data": null,
+        "filesize_bytes": 673
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5ffdbc3ec0999036d0b717ef6c41493a",
+    "text": "Components:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18483.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18483",
+          "key": "MAP-556",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-12T23:39:42.701+0000",
+        "date_modified": "2025-03-27T23:48:21.864+0000",
+        "date_processed": "1744461415.3524919",
+        "permissions_data": null,
+        "filesize_bytes": 673
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "78b73ebcc101caf9c507d3ca5a7a26f0",
+    "text": "Hotfix batch 0002",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18483.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18483",
+          "key": "MAP-556",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-12T23:39:42.701+0000",
+        "date_modified": "2025-03-27T23:48:21.864+0000",
+        "date_processed": "1744461415.3524919",
+        "permissions_data": null,
+        "filesize_bytes": 673
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6c7ed31f60d12491da0d83a6f8d7d2c2",
+    "text": "{}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "18483.txt",
+      "filetype": "text/plain",
+      "parent_id": "78b73ebcc101caf9c507d3ca5a7a26f0",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "18483",
+          "key": "MAP-556",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": "2025-03-12T23:39:42.701+0000",
+        "date_modified": "2025-03-27T23:48:21.864+0000",
+        "date_processed": "1744461415.3524919",
+        "permissions_data": null,
+        "filesize_bytes": 673
+      }
+    }
+  }
+]

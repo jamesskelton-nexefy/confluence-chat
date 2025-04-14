@@ -1,0 +1,330 @@
+[
+  {
+    "type": "Title",
+    "element_id": "ee42962edc1224a2b23bfb997dd41e89",
+    "text": "IssueID_IssueKey:16214     MAP-214",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16214.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16214",
+          "key": "MAP-214",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0603137",
+        "permissions_data": null,
+        "filesize_bytes": 883
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a073f3fc2091e8f4fd867718ec73c631",
+    "text": "ProjectID_Key:MAP     Mapper",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16214.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16214",
+          "key": "MAP-214",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0603137",
+        "permissions_data": null,
+        "filesize_bytes": 883
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d81c1239a96062b25fe101cf1f1fba60",
+    "text": "IssueType:Story",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16214.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16214",
+          "key": "MAP-214",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0603137",
+        "permissions_data": null,
+        "filesize_bytes": 883
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4e52127c026f45f1b141130a5a6b854f",
+    "text": "Status:Done",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16214.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16214",
+          "key": "MAP-214",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0603137",
+        "permissions_data": null,
+        "filesize_bytes": 883
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b674cf963214cac604c3cab78948f4f5",
+    "text": "Priority:{'self': 'https://nexefy.atlassian.net/rest/api/2/priority/2', 'iconUrl': 'https://nexefy.atlassian.net/images/icons/priorities/high.svg', 'name': 'High', 'id': '2'}",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16214.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16214",
+          "key": "MAP-214",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0603137",
+        "permissions_data": null,
+        "filesize_bytes": 883
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0510c4c78ea672727e1521759515faa3",
+    "text": "AssigneeID_Name:62e34fec5b8cc5741205a78f     jessica",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16214.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16214",
+          "key": "MAP-214",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0603137",
+        "permissions_data": null,
+        "filesize_bytes": 883
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4afaa40f183cafb9e185d9c2580b0737",
+    "text": "ReporterAdr_Name:james@nexefy.com     James",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16214.txt",
+      "filetype": "text/plain",
+      "parent_id": "0510c4c78ea672727e1521759515faa3",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16214",
+          "key": "MAP-214",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0603137",
+        "permissions_data": null,
+        "filesize_bytes": 883
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f69d4b1e69c602109471b1b43dba8f3e",
+    "text": "Labels:",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16214.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16214",
+          "key": "MAP-214",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0603137",
+        "permissions_data": null,
+        "filesize_bytes": 883
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2423d8cefe54b26a3c848d277acda698",
+    "text": "Components:Upload System",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16214.txt",
+      "filetype": "text/plain",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16214",
+          "key": "MAP-214",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0603137",
+        "permissions_data": null,
+        "filesize_bytes": 883
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "20ced1ad9a68987538f125d30cc06fb7",
+    "text": "James     [~accountid:62de37ee4b574e9f2caf31d0] This needs testing",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16214.txt",
+      "filetype": "text/plain",
+      "parent_id": "2423d8cefe54b26a3c848d277acda698",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16214",
+          "key": "MAP-214",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0603137",
+        "permissions_data": null,
+        "filesize_bytes": 883
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "aa7aaf0abb05ec7ea17b3b6d00c64a8d",
+    "text": "Ability to map documents to units once uploaded",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16214.txt",
+      "filetype": "text/plain",
+      "parent_id": "2423d8cefe54b26a3c848d277acda698",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16214",
+          "key": "MAP-214",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0603137",
+        "permissions_data": null,
+        "filesize_bytes": 883
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "010c9e76c701bc760cb1195823446d77",
+    "text": "After the user uploads their document, they need a way to assign documents to particular units for mapping",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "16214.txt",
+      "filetype": "text/plain",
+      "parent_id": "2423d8cefe54b26a3c848d277acda698",
+      "data_source": {
+        "url": null,
+        "version": null,
+        "record_locator": {
+          "id": "16214",
+          "key": "MAP-214",
+          "board_id": null,
+          "project_id": "MAP"
+        },
+        "date_created": null,
+        "date_modified": null,
+        "date_processed": "1744461415.0603137",
+        "permissions_data": null,
+        "filesize_bytes": 883
+      }
+    }
+  }
+]
